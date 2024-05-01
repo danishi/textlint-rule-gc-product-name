@@ -9,7 +9,8 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
 
-This rule checks Google Cloud product names
+This rule checks Google Cloud product names.  
+The names of products are obtained from [this API](https://github.com/danishi/gc-service-list-api).
 
 ## Install
 

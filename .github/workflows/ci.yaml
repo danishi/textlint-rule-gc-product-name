@@ -1,12 +1,14 @@
-name: Release
+name: ci
 
 on:
   push:
-    tags:
-      - "v*"
+    branches:
+      - main
+    paths-ignore:
+      - "**.md"
 
 jobs:
-  publish:
+  test:
     name: Node.js ${{ matrix.python-version }} on ${{ matrix.os }}
     runs-on: ${{ matrix.os }}
     timeout-minutes: 10
@@ -14,9 +16,7 @@ jobs:
       matrix:
         node-version: [20.x]
         os: [ubuntu-latest]
-    permissions:
-      contents: read
-      id-token: write
+
     steps:
       - name: Checkout 🔔
         uses: actions/checkout@v4
@@ -25,15 +25,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          registry-url: 'https://registry.npmjs.org'
 
       - name: Install dependencies 🧹
         run: npm ci
 
-      - name: Build 🔨
-        run: npm run build
-
-      - name: Publish 🎁
-        run: npm publish --provenance --access public
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Run unit tests 🧪
+        run: npm run test

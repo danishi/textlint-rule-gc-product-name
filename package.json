@@ -1,5 +1,5 @@
 {
-  "version": "0.9.1",
+  "version": "1.0.0",
   "name": "textlint-rule-gc-product-name",
   "description": "This rule checks Google Cloud product names.",
   "author": "danishi",
