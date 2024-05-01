@@ -12,7 +12,7 @@ jobs:
     timeout-minutes: 10
     strategy:
       matrix:
-        node-version: [18.x]
+        node-version: [20.x]
         os: [ubuntu-latest]
 
     steps:
@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
 
       - name: Install dependencies 🧹
         run: npm ci
@@ -32,7 +32,6 @@ jobs:
         run: npm run build
 
       - name: Publish 🎁
-        run: |
-          npm publish
+        run: npm publish --provenance --access public
         env:
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
