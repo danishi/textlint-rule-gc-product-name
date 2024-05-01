@@ -39,6 +39,7 @@ jobs:
         git add ./src/terms.json
         git commit -m "Update products.json at `date +%Y-%m-%d`" -a
         git push origin main
+      continue-on-error: true # no changes to commit
 
   ci:
     needs: [update]
