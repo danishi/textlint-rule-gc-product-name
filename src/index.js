@@ -1,17 +1,17 @@
-const terms = require('./terms.json'); // terms.json ファイルを読み込む
+const terms = require('./terms.json');
 
 module.exports = function(context) {
     const { Syntax, RuleError, report, getSource } = context;
     return {
         [Syntax.Str](node) {
-            const text = getSource(node); // テキストの取得
+            const text = getSource(node);
             terms.forEach(term => {
-                // 正規表現を用いて、正確な表記かどうかをチェック
-                const correctRegExp = new RegExp(`\\b${term.correct}\\b`, 'ig'); // 大文字小文字を無視した正確な表記のパターン
+                // Check for correct notation using regular expressions.
+                const correctRegExp = new RegExp(`\\b${term.correct}\\b`, 'ig'); // Exact case-insensitive spelling pattern.
                 let match;
 
                 while ((match = correctRegExp.exec(text)) !== null) {
-                    // 正確なキャピタライゼーションで書かれているかをチェック
+                    // Check if it is written with accurate capitalization.
                     if (match[0] !== term.correct) {
                         const ruleError = new RuleError(`It is correct to write "${term.correct}" exactly, with proper capitalization.`, {
                             index: match.index
@@ -20,7 +20,7 @@ module.exports = function(context) {
                     }
                 }
 
-                // 不正な表記があるかチェック
+                // Check for incorrect descriptions.
                 term.incorrect.forEach(incorrectTerm => {
                     const incorrectRegExp = new RegExp(`\\b${incorrectTerm}\\b`, 'g');
                     while ((match = incorrectRegExp.exec(text)) !== null) {
