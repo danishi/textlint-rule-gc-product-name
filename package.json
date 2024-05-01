@@ -1,9 +1,10 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "name": "textlint-rule-gc-product-name",
   "description": "This rule checks Google Cloud product names.",
   "author": "danishi",
   "license": "MIT",
+  "private": false,
   "keywords": [
     "textlintrule",
     "googlecloud"
@@ -19,7 +20,7 @@
   ],
   "scripts": {
     "test": "textlint-scripts test",
-    "build": "textlint-scripts build",
+    "build": "textlint-scripts build && cp ./src/terms.json ./lib/terms.json",
     "prepublish": "npm run --if-present build"
   },
   "devDependencies": {
