@@ -1,6 +1,6 @@
 # textlint-rule-gc-product-name
 
-[![ci](https://github.com/danishi/textlint-rule-gc-product-name/actions/workflows/ci.yaml/badge.svg)](https://github.com/danishi/textlint-rule-gc-product-name/actions/workflows/ci.yaml)
+[![ci](https://github.com/danishi/textlint-rule-gc-product-name/actions/workflows/ci.yml/badge.svg)](https://github.com/danishi/textlint-rule-gc-product-name/actions/workflows/ci.yml)
 [![Contributors](https://img.shields.io/github/contributors/danishi/textlint-rule-gc-product-name)](https://github.com/danishi/textlint-rule-gc-product-name/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/danishi/textlint-rule-gc-product-name)](https://github.com/danishi/textlint-rule-gc-product-name/last-commit)
 [![Open Issues](https://img.shields.io/github/issues-raw/danishi/textlint-rule-gc-product-name)](https://github.com/danishi/textlint-rule-gc-product-name/issues)
