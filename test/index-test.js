@@ -24,7 +24,7 @@ tester.run("rule", rule, {
         {
             text: `Compute Engine is a product
 
-of google Cloud.`,
+of Google cloud.`,
             errors: [
                 {
                     message: 'It is correct to write "Google Cloud" exactly, with proper capitalization.',
