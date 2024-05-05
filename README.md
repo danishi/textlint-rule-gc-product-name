@@ -19,7 +19,7 @@ The names of products are obtained from [this API](https://github.com/danishi/gc
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
+Install with [npm](https://www.npmjs.com/package/textlint-rule-gc-product-name):
 
     npm install textlint-rule-gc-product-name
 
