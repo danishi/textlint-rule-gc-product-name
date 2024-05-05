@@ -13,7 +13,7 @@ module.exports = function(context) {
                 while ((match = correctRegExp.exec(text)) !== null) {
                     // Check if it is written with accurate capitalization.
                     if (match[0] !== term.correct) {
-                        const ruleError = new RuleError(`It is correct to write "${term.correct}" exactly, with proper capitalization.`, {
+                        const ruleError = new RuleError(`Correct to write "${term.correct}" exactly, with proper capitalization.`, {
                             index: match.index
                         });
                         report(node, ruleError);
@@ -24,7 +24,7 @@ module.exports = function(context) {
                 term.incorrect.forEach(incorrectTerm => {
                     const incorrectRegExp = new RegExp(`\\b${incorrectTerm}\\b`, 'g');
                     while ((match = incorrectRegExp.exec(text)) !== null) {
-                        const ruleError = new RuleError(`It is correct to write "${term.correct}".`, {
+                        const ruleError = new RuleError(`Correct to write "${term.correct}".`, {
                             index: match.index
                         });
                         report(node, ruleError);
