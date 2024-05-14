@@ -9,7 +9,6 @@
 ![NPM Downloads 18m](https://img.shields.io/npm/d18m/textlint-rule-gc-product-name)
 ![NPM Downloads week](https://img.shields.io/npm/dw/textlint-rule-gc-product-name)
 ![NPM Downloads month](https://img.shields.io/npm/dm/textlint-rule-gc-product-name)
-
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/danishi)
