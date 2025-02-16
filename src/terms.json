@@ -50,1419 +50,15 @@
     "incorrect": []
   },
   {
-    "correct": "Cloud Foundation Toolkit",
+    "correct": "Cloud Profiler API",
     "incorrect": [
-      "CloudFoundationToolkit"
+      "CloudProfilerAPI"
     ]
   },
   {
-    "correct": "Migration Center",
+    "correct": "Organization Policy API",
     "incorrect": [
-      "MigrationCenter"
-    ]
-  },
-  {
-    "correct": "Cloud Connectivity",
-    "incorrect": [
-      "CloudConnectivity"
-    ]
-  },
-  {
-    "correct": "Google Maps Platform",
-    "incorrect": [
-      "GoogleMapsPlatform"
-    ]
-  },
-  {
-    "correct": "reCAPTCHA Enterprise",
-    "incorrect": [
-      "reCAPTCHAEnterprise"
-    ]
-  },
-  {
-    "correct": "Google Distributed Cloud Edge",
-    "incorrect": [
-      "GoogleDistributedCloudEdge"
-    ]
-  },
-  {
-    "correct": "Apache Kafka for BigQuery",
-    "incorrect": [
-      "ApacheKafkaforBigQuery"
-    ]
-  },
-  {
-    "correct": "BigQuery Data Transfer Service",
-    "incorrect": [
-      "BigQueryDataTransferService"
-    ]
-  },
-  {
-    "correct": "Datastream",
-    "incorrect": []
-  },
-  {
-    "correct": "Private Service Connect",
-    "incorrect": [
-      "PrivateServiceConnect"
-    ]
-  },
-  {
-    "correct": "Skaffold",
-    "incorrect": []
-  },
-  {
-    "correct": "Firebase Realtime Database*",
-    "incorrect": [
-      "FirebaseRealtimeDatabase*"
-    ]
-  },
-  {
-    "correct": "BigQuery",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud Shell",
-    "incorrect": [
-      "CloudShell"
-    ]
-  },
-  {
-    "correct": "Active Assist",
-    "incorrect": [
-      "ActiveAssist"
-    ]
-  },
-  {
-    "correct": "Cloud Logging",
-    "incorrect": [
-      "CloudLogging"
-    ]
-  },
-  {
-    "correct": "Migrate to Virtual Machines",
-    "incorrect": [
-      "MigratetoVirtualMachines"
-    ]
-  },
-  {
-    "correct": "Document AI",
-    "incorrect": [
-      "DocumentAI"
-    ]
-  },
-  {
-    "correct": "Vision AI",
-    "incorrect": [
-      "VisionAI"
-    ]
-  },
-  {
-    "correct": "Virtual Private Cloud (VPC)",
-    "incorrect": [
-      "VirtualPrivateCloud(VPC)"
-    ]
-  },
-  {
-    "correct": "Cloud Run",
-    "incorrect": [
-      "CloudRun"
-    ]
-  },
-  {
-    "correct": "Managed Service for Microsoft Active Directory",
-    "incorrect": [
-      "ManagedServiceforMicrosoftActiveDirectory"
-    ]
-  },
-  {
-    "correct": "Terraform on Google Cloud",
-    "incorrect": [
-      "TerraformonGoogleCloud"
-    ]
-  },
-  {
-    "correct": "Vertex AI Notebooks",
-    "incorrect": [
-      "VertexAINotebooks"
-    ]
-  },
-  {
-    "correct": "Cloud APIs",
-    "incorrect": [
-      "CloudAPIs"
-    ]
-  },
-  {
-    "correct": "Cloud Identity",
-    "incorrect": [
-      "CloudIdentity"
-    ]
-  },
-  {
-    "correct": "Speech-to-Text",
-    "incorrect": []
-  },
-  {
-    "correct": "AutoML",
-    "incorrect": []
-  },
-  {
-    "correct": "Personalized Service Health",
-    "incorrect": [
-      "PersonalizedServiceHealth"
-    ]
-  },
-  {
-    "correct": "Cloud Console",
-    "incorrect": [
-      "CloudConsole"
-    ]
-  },
-  {
-    "correct": "Recommendations AI",
-    "incorrect": [
-      "RecommendationsAI"
-    ]
-  },
-  {
-    "correct": "Infrastructure Manager",
-    "incorrect": [
-      "InfrastructureManager"
-    ]
-  },
-  {
-    "correct": "Cloud Monitoring",
-    "incorrect": [
-      "CloudMonitoring"
-    ]
-  },
-  {
-    "correct": "Assured Workloads",
-    "incorrect": [
-      "AssuredWorkloads"
-    ]
-  },
-  {
-    "correct": "Dataproc",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud DNS",
-    "incorrect": [
-      "CloudDNS"
-    ]
-  },
-  {
-    "correct": "Identity and Access Management",
-    "incorrect": [
-      "IdentityandAccessManagement"
-    ]
-  },
-  {
-    "correct": "Bare Metal Solution",
-    "incorrect": [
-      "BareMetalSolution"
-    ]
-  },
-  {
-    "correct": "Mandiant Academy",
-    "incorrect": [
-      "MandiantAcademy"
-    ]
-  },
-  {
-    "correct": "Mandiant Consulting Services",
-    "incorrect": [
-      "MandiantConsultingServices"
-    ]
-  },
-  {
-    "correct": "Telecom Network Automation",
-    "incorrect": [
-      "TelecomNetworkAutomation"
-    ]
-  },
-  {
-    "correct": "Blockchain Node Engine",
-    "incorrect": [
-      "BlockchainNodeEngine"
-    ]
-  },
-  {
-    "correct": "Cloud Deploy",
-    "incorrect": [
-      "CloudDeploy"
-    ]
-  },
-  {
-    "correct": "Cloud Armor",
-    "incorrect": [
-      "CloudArmor"
-    ]
-  },
-  {
-    "correct": "Gemini in Databases",
-    "incorrect": [
-      "GeminiinDatabases"
-    ]
-  },
-  {
-    "correct": "Chronicle SIEM",
-    "incorrect": [
-      "ChronicleSIEM"
-    ]
-  },
-  {
-    "correct": "Managed Service for Prometheus",
-    "incorrect": [
-      "ManagedServiceforPrometheus"
-    ]
-  },
-  {
-    "correct": "Looker",
-    "incorrect": []
-  },
-  {
-    "correct": "Sensitive Data Protection",
-    "incorrect": [
-      "SensitiveDataProtection"
-    ]
-  },
-  {
-    "correct": "Rapid Assessment & Migration Program (RAMP)",
-    "incorrect": [
-      "RapidAssessment&MigrationProgram(RAMP)"
-    ]
-  },
-  {
-    "correct": "Kubernetes applications on Google Cloud Marketplace",
-    "incorrect": [
-      "KubernetesapplicationsonGoogleCloudMarketplace"
-    ]
-  },
-  {
-    "correct": "Migrate to Containers",
-    "incorrect": [
-      "MigratetoContainers"
-    ]
-  },
-  {
-    "correct": "Cloud Functions",
-    "incorrect": [
-      "CloudFunctions"
-    ]
-  },
-  {
-    "correct": "Transfer Appliance",
-    "incorrect": [
-      "TransferAppliance"
-    ]
-  },
-  {
-    "correct": "Titan Security Key",
-    "incorrect": [
-      "TitanSecurityKey"
-    ]
-  },
-  {
-    "correct": "Google Workspace",
-    "incorrect": [
-      "GoogleWorkspace"
-    ]
-  },
-  {
-    "correct": "Security Command Center",
-    "incorrect": [
-      "SecurityCommandCenter"
-    ]
-  },
-  {
-    "correct": "Vertex AI Search for retail",
-    "incorrect": [
-      "VertexAISearchforretail"
-    ]
-  },
-  {
-    "correct": "Dataprep",
-    "incorrect": []
-  },
-  {
-    "correct": "Identity and Access Management (IAM)",
-    "incorrect": [
-      "IdentityandAccessManagement(IAM)"
-    ]
-  },
-  {
-    "correct": "Cloud Debugger",
-    "incorrect": [
-      "CloudDebugger"
-    ]
-  },
-  {
-    "correct": "Cloud Functions for Firebase",
-    "incorrect": [
-      "CloudFunctionsforFirebase"
-    ]
-  },
-  {
-    "correct": "Gemini for Google Cloud",
-    "incorrect": [
-      "GeminiforGoogleCloud"
-    ]
-  },
-  {
-    "correct": "Tools for PowerShell",
-    "incorrect": [
-      "ToolsforPowerShell"
-    ]
-  },
-  {
-    "correct": "Cloud NAT",
-    "incorrect": [
-      "CloudNAT"
-    ]
-  },
-  {
-    "correct": "Cost Management",
-    "incorrect": [
-      "CostManagement"
-    ]
-  },
-  {
-    "correct": "Apigee API Management",
-    "incorrect": [
-      "ApigeeAPIManagement"
-    ]
-  },
-  {
-    "correct": "Application Integration",
-    "incorrect": [
-      "ApplicationIntegration"
-    ]
-  },
-  {
-    "correct": "Cloud Composer",
-    "incorrect": [
-      "CloudComposer"
-    ]
-  },
-  {
-    "correct": "BeyondCorp Enterprise",
-    "incorrect": [
-      "BeyondCorpEnterprise"
-    ]
-  },
-  {
-    "correct": "Tools for Eclipse",
-    "incorrect": [
-      "ToolsforEclipse"
-    ]
-  },
-  {
-    "correct": "SQL Server on Google Cloud",
-    "incorrect": [
-      "SQLServeronGoogleCloud"
-    ]
-  },
-  {
-    "correct": "Spectrum Access System (SAS)",
-    "incorrect": [
-      "SpectrumAccessSystem(SAS)"
-    ]
-  },
-  {
-    "correct": "Mandiant Incident Response Services",
-    "incorrect": [
-      "MandiantIncidentResponseServices"
-    ]
-  },
-  {
-    "correct": "Mandiant Threat Intelligence",
-    "incorrect": [
-      "MandiantThreatIntelligence"
-    ]
-  },
-  {
-    "correct": "Network Service Tiers",
-    "incorrect": [
-      "NetworkServiceTiers"
-    ]
-  },
-  {
-    "correct": "Cloud Endpoints",
-    "incorrect": [
-      "CloudEndpoints"
-    ]
-  },
-  {
-    "correct": "Analytics Hub",
-    "incorrect": [
-      "AnalyticsHub"
-    ]
-  },
-  {
-    "correct": "Local SSD",
-    "incorrect": [
-      "LocalSSD"
-    ]
-  },
-  {
-    "correct": "App Hub",
-    "incorrect": [
-      "AppHub"
-    ]
-  },
-  {
-    "correct": "Gemini Cloud Assist",
-    "incorrect": [
-      "GeminiCloudAssist"
-    ]
-  },
-  {
-    "correct": "Gemini Code Assist",
-    "incorrect": [
-      "GeminiCodeAssist"
-    ]
-  },
-  {
-    "correct": "Policy Intelligence",
-    "incorrect": [
-      "PolicyIntelligence"
-    ]
-  },
-  {
-    "correct": "Text-to-Speech",
-    "incorrect": []
-  },
-  {
-    "correct": "Chrome Enterprise Premium",
-    "incorrect": [
-      "ChromeEnterprisePremium"
-    ]
-  },
-  {
-    "correct": "Parallelstore",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud Trace",
-    "incorrect": [
-      "CloudTrace"
-    ]
-  },
-  {
-    "correct": "Tekton",
-    "incorrect": []
-  },
-  {
-    "correct": "Chrome Enterprise",
-    "incorrect": [
-      "ChromeEnterprise"
-    ]
-  },
-  {
-    "correct": "Cloud Asset Inventory",
-    "incorrect": [
-      "CloudAssetInventory"
-    ]
-  },
-  {
-    "correct": "Pub/Sub",
-    "incorrect": []
-  },
-  {
-    "correct": "Application migration",
-    "incorrect": [
-      "Applicationmigration"
-    ]
-  },
-  {
-    "correct": "Chronicle SOAR",
-    "incorrect": [
-      "ChronicleSOAR"
-    ]
-  },
-  {
-    "correct": "Cloud Data Fusion",
-    "incorrect": [
-      "CloudDataFusion"
-    ]
-  },
-  {
-    "correct": "Block storage",
-    "incorrect": [
-      "Blockstorage"
-    ]
-  },
-  {
-    "correct": "Intelligent products (Preview)",
-    "incorrect": [
-      "Intelligentproducts(Preview)"
-    ]
-  },
-  {
-    "correct": "Mandiant Digital Threat Monitoring",
-    "incorrect": [
-      "MandiantDigitalThreatMonitoring"
-    ]
-  },
-  {
-    "correct": "Google Kubernetes Engine (GKE)",
-    "incorrect": [
-      "GoogleKubernetesEngine(GKE)"
-    ]
-  },
-  {
-    "correct": "Service Directory",
-    "incorrect": [
-      "ServiceDirectory"
-    ]
-  },
-  {
-    "correct": "Google Distributed Cloud",
-    "incorrect": [
-      "GoogleDistributedCloud"
-    ]
-  },
-  {
-    "correct": "Bigtable",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud Tasks",
-    "incorrect": [
-      "CloudTasks"
-    ]
-  },
-  {
-    "correct": "Cloud Mobile App",
-    "incorrect": [
-      "CloudMobileApp"
-    ]
-  },
-  {
-    "correct": "Firestore",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud Storage",
-    "incorrect": [
-      "CloudStorage"
-    ]
-  },
-  {
-    "correct": "Deep Learning VM Image",
-    "incorrect": [
-      "DeepLearningVMImage"
-    ]
-  },
-  {
-    "correct": "Cloud Storage for Firebase",
-    "incorrect": [
-      "CloudStorageforFirebase"
-    ]
-  },
-  {
-    "correct": "AppSheet Automation",
-    "incorrect": [
-      "AppSheetAutomation"
-    ]
-  },
-  {
-    "correct": "Vertex AI Studio",
-    "incorrect": [
-      "VertexAIStudio"
-    ]
-  },
-  {
-    "correct": "Database Migration Service",
-    "incorrect": [
-      "DatabaseMigrationService"
-    ]
-  },
-  {
-    "correct": "Config Management",
-    "incorrect": [
-      "ConfigManagement"
-    ]
-  },
-  {
-    "correct": "App Engine",
-    "incorrect": [
-      "AppEngine"
-    ]
-  },
-  {
-    "correct": "Data Catalog",
-    "incorrect": [
-      "DataCatalog"
-    ]
-  },
-  {
-    "correct": "Firebase Authentication",
-    "incorrect": [
-      "FirebaseAuthentication"
-    ]
-  },
-  {
-    "correct": "Deep Learning Containers",
-    "incorrect": [
-      "DeepLearningContainers"
-    ]
-  },
-  {
-    "correct": "Secret Manager",
-    "incorrect": [
-      "SecretManager"
-    ]
-  },
-  {
-    "correct": "Identity Platform",
-    "incorrect": [
-      "IdentityPlatform"
-    ]
-  },
-  {
-    "correct": "Immersive Stream for XR",
-    "incorrect": [
-      "ImmersiveStreamforXR"
-    ]
-  },
-  {
-    "correct": "Cloud SQL",
-    "incorrect": [
-      "CloudSQL"
-    ]
-  },
-  {
-    "correct": "Vertex AI",
-    "incorrect": [
-      "VertexAI"
-    ]
-  },
-  {
-    "correct": "TensorFlow Enterprise",
-    "incorrect": [
-      "TensorFlowEnterprise"
-    ]
-  },
-  {
-    "correct": "Device Connect for Fitbit",
-    "incorrect": [
-      "DeviceConnectforFitbit"
-    ]
-  },
-  {
-    "correct": "Tau VM",
-    "incorrect": [
-      "TauVM"
-    ]
-  },
-  {
-    "correct": "Telecom Subscriber Insights",
-    "incorrect": [
-      "TelecomSubscriberInsights"
-    ]
-  },
-  {
-    "correct": "Vertex AI Platform",
-    "incorrect": [
-      "VertexAIPlatform"
-    ]
-  },
-  {
-    "correct": "Identity-Aware Proxy",
-    "incorrect": [
-      "Identity-AwareProxy"
-    ]
-  },
-  {
-    "correct": "BigLake",
-    "incorrect": []
-  },
-  {
-    "correct": "Live Stream API",
-    "incorrect": [
-      "LiveStreamAPI"
-    ]
-  },
-  {
-    "correct": "Cloud SDK",
-    "incorrect": [
-      "CloudSDK"
-    ]
-  },
-  {
-    "correct": "Cloud Deployment Manager",
-    "incorrect": [
-      "CloudDeploymentManager"
-    ]
-  },
-  {
-    "correct": "Carbon Footprint",
-    "incorrect": [
-      "CarbonFootprint"
-    ]
-  },
-  {
-    "correct": "Assured Open Source Software",
-    "incorrect": [
-      "AssuredOpenSourceSoftware"
-    ]
-  },
-  {
-    "correct": "NetApp Volumes",
-    "incorrect": [
-      "NetAppVolumes"
-    ]
-  },
-  {
-    "correct": "Error Reporting",
-    "incorrect": [
-      "ErrorReporting"
-    ]
-  },
-  {
-    "correct": "API Gateway",
-    "incorrect": [
-      "APIGateway"
-    ]
-  },
-  {
-    "correct": "AppSheet",
-    "incorrect": []
-  },
-  {
-    "correct": "Knative",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud Firewall",
-    "incorrect": [
-      "CloudFirewall"
-    ]
-  },
-  {
-    "correct": "Video Stitcher API",
-    "incorrect": [
-      "VideoStitcherAPI"
-    ]
-  },
-  {
-    "correct": "Workflows",
-    "incorrect": []
-  },
-  {
-    "correct": "Google Kubernetes Engine",
-    "incorrect": [
-      "GoogleKubernetesEngine"
-    ]
-  },
-  {
-    "correct": "Cloud IDS",
-    "incorrect": [
-      "CloudIDS"
-    ]
-  },
-  {
-    "correct": "Cloud Workstations",
-    "incorrect": [
-      "CloudWorkstations"
-    ]
-  },
-  {
-    "correct": "Filestore",
-    "incorrect": []
-  },
-  {
-    "correct": "Google Cloud Backup and DR",
-    "incorrect": [
-      "GoogleCloudBackupandDR"
-    ]
-  },
-  {
-    "correct": "Contact Center AI",
-    "incorrect": [
-      "ContactCenterAI"
-    ]
-  },
-  {
-    "correct": "Anti Money Laundering AI",
-    "incorrect": [
-      "AntiMoneyLaunderingAI"
-    ]
-  },
-  {
-    "correct": "Mandiant Security Validation",
-    "incorrect": [
-      "MandiantSecurityValidation"
-    ]
-  },
-  {
-    "correct": "Cloud Scheduler",
-    "incorrect": [
-      "CloudScheduler"
-    ]
-  },
-  {
-    "correct": "Google Marketing Platform*",
-    "incorrect": [
-      "GoogleMarketingPlatform*"
-    ]
-  },
-  {
-    "correct": "Service Mesh",
-    "incorrect": [
-      "ServiceMesh"
-    ]
-  },
-  {
-    "correct": "VMware Engine",
-    "incorrect": [
-      "VMwareEngine"
-    ]
-  },
-  {
-    "correct": "Cloud Load Balancing",
-    "incorrect": [
-      "CloudLoadBalancing"
-    ]
-  },
-  {
-    "correct": "AlloyDB for PostgreSQL",
-    "incorrect": [
-      "AlloyDBforPostgreSQL"
-    ]
-  },
-  {
-    "correct": "Software Delivery Shield",
-    "incorrect": [
-      "SoftwareDeliveryShield"
-    ]
-  },
-  {
-    "correct": "Firebase Test Lab",
-    "incorrect": [
-      "FirebaseTestLab"
-    ]
-  },
-  {
-    "correct": "Telecom Data Fabric",
-    "incorrect": [
-      "TelecomDataFabric"
-    ]
-  },
-  {
-    "correct": "Cloud Domains",
-    "incorrect": [
-      "CloudDomains"
-    ]
-  },
-  {
-    "correct": "Web Risk",
-    "incorrect": [
-      "WebRisk"
-    ]
-  },
-  {
-    "correct": "Dialogflow",
-    "incorrect": []
-  },
-  {
-    "correct": "Google Distributed Cloud Hosted",
-    "incorrect": [
-      "GoogleDistributedCloudHosted"
-    ]
-  },
-  {
-    "correct": "Spot VMs",
-    "incorrect": [
-      "SpotVMs"
-    ]
-  },
-  {
-    "correct": "Cloud Code",
-    "incorrect": [
-      "CloudCode"
-    ]
-  },
-  {
-    "correct": "Network Intelligence Center",
-    "incorrect": [
-      "NetworkIntelligenceCenter"
-    ]
-  },
-  {
-    "correct": "Maven App Engine Plugin",
-    "incorrect": [
-      "MavenAppEnginePlugin"
-    ]
-  },
-  {
-    "correct": "Cloud TPUs",
-    "incorrect": [
-      "CloudTPUs"
-    ]
-  },
-  {
-    "correct": "Cloud Build",
-    "incorrect": [
-      "CloudBuild"
-    ]
-  },
-  {
-    "correct": "Google Workspace Essentials",
-    "incorrect": [
-      "GoogleWorkspaceEssentials"
-    ]
-  },
-  {
-    "correct": "Gradle App Engine Plugin",
-    "incorrect": [
-      "GradleAppEnginePlugin"
-    ]
-  },
-  {
-    "correct": "Vertex AI Agent Builder",
-    "incorrect": [
-      "VertexAIAgentBuilder"
-    ]
-  },
-  {
-    "correct": "Media Translation",
-    "incorrect": [
-      "MediaTranslation"
-    ]
-  },
-  {
-    "correct": "Translation AI",
-    "incorrect": [
-      "TranslationAI"
-    ]
-  },
-  {
-    "correct": "Spanner",
-    "incorrect": []
-  },
-  {
-    "correct": "VPC Service Controls",
-    "incorrect": [
-      "VPCServiceControls"
-    ]
-  },
-  {
-    "correct": "Anthos",
-    "incorrect": []
-  },
-  {
-    "correct": "Dataflow",
-    "incorrect": []
-  },
-  {
-    "correct": "Dataform",
-    "incorrect": []
-  },
-  {
-    "correct": "Service Catalog",
-    "incorrect": [
-      "ServiceCatalog"
-    ]
-  },
-  {
-    "correct": "Cloud GPUs",
-    "incorrect": [
-      "CloudGPUs"
-    ]
-  },
-  {
-    "correct": "Payment Gateway",
-    "incorrect": [
-      "PaymentGateway"
-    ]
-  },
-  {
-    "correct": "Memorystore",
-    "incorrect": []
-  },
-  {
-    "correct": "Artifact Registry",
-    "incorrect": [
-      "ArtifactRegistry"
-    ]
-  },
-  {
-    "correct": "Config Connector",
-    "incorrect": [
-      "ConfigConnector"
-    ]
-  },
-  {
-    "correct": "Deployment Manager",
-    "incorrect": [
-      "DeploymentManager"
-    ]
-  },
-  {
-    "correct": "Network Connectivity Center",
-    "incorrect": [
-      "NetworkConnectivityCenter"
-    ]
-  },
-  {
-    "correct": "Cloud Profiler",
-    "incorrect": [
-      "CloudProfiler"
-    ]
-  },
-  {
-    "correct": "Gemini for Workspace",
-    "incorrect": [
-      "GeminiforWorkspace"
-    ]
-  },
-  {
-    "correct": "Access Transparency",
-    "incorrect": [
-      "AccessTransparency"
-    ]
-  },
-  {
-    "correct": "Shielded VMs",
-    "incorrect": [
-      "ShieldedVMs"
-    ]
-  },
-  {
-    "correct": "Cloud Source Repositories",
-    "incorrect": [
-      "CloudSourceRepositories"
-    ]
-  },
-  {
-    "correct": "Firebase Crashlytics*",
-    "incorrect": [
-      "FirebaseCrashlytics*"
-    ]
-  },
-  {
-    "correct": "Natural Language AI",
-    "incorrect": [
-      "NaturalLanguageAI"
-    ]
-  },
-  {
-    "correct": "AI Infrastructure",
-    "incorrect": [
-      "AIInfrastructure"
-    ]
-  },
-  {
-    "correct": "Transcoder API",
-    "incorrect": [
-      "TranscoderAPI"
-    ]
-  },
-  {
-    "correct": "Video AI",
-    "incorrect": [
-      "VideoAI"
-    ]
-  },
-  {
-    "correct": "Earth Engine",
-    "incorrect": [
-      "EarthEngine"
-    ]
-  },
-  {
-    "correct": "Cloud Healthcare API",
-    "incorrect": [
-      "CloudHealthcareAPI"
-    ]
-  },
-  {
-    "correct": "Recommender",
-    "incorrect": []
-  },
-  {
-    "correct": "Compute Engine",
-    "incorrect": [
-      "ComputeEngine"
-    ]
-  },
-  {
-    "correct": "Virus Total",
-    "incorrect": [
-      "VirusTotal"
-    ]
-  },
-  {
-    "correct": "Sole-tenant Nodes",
-    "incorrect": [
-      "Sole-tenantNodes"
-    ]
-  },
-  {
-    "correct": "Batch",
-    "incorrect": []
-  },
-  {
-    "correct": "Cloud Key Management",
-    "incorrect": [
-      "CloudKeyManagement"
-    ]
-  },
-  {
-    "correct": "OpenCue",
-    "incorrect": []
-  },
-  {
-    "correct": "Storage Transfer Service",
-    "incorrect": [
-      "StorageTransferService"
-    ]
-  },
-  {
-    "correct": "Certificate Authority Service",
-    "incorrect": [
-      "CertificateAuthorityService"
-    ]
-  },
-  {
-    "correct": "Looker Studio",
-    "incorrect": [
-      "LookerStudio"
-    ]
-  },
-  {
-    "correct": "Cloud CDN",
-    "incorrect": [
-      "CloudCDN"
-    ]
-  },
-  {
-    "correct": "Mandiant Attack Surface Management",
-    "incorrect": [
-      "MandiantAttackSurfaceManagement"
-    ]
-  },
-  {
-    "correct": "Confidential Computing",
-    "incorrect": [
-      "ConfidentialComputing"
-    ]
-  },
-  {
-    "correct": "Vertex Explainable AI",
-    "incorrect": [
-      "VertexExplainableAI"
-    ]
-  },
-  {
-    "correct": "Eventarc",
-    "incorrect": []
-  },
-  {
-    "correct": "Mandiant Managed Detection and Response",
-    "incorrect": [
-      "MandiantManagedDetectionandResponse"
-    ]
-  },
-  {
-    "correct": "Dataplex",
-    "incorrect": []
-  },
-  {
-    "correct": "Persistent Disk",
-    "incorrect": [
-      "PersistentDisk"
-    ]
-  },
-  {
-    "correct": "Cloud DNS API",
-    "incorrect": [
-      "CloudDNSAPI"
-    ]
-  },
-  {
-    "correct": "Google Forms API",
-    "incorrect": [
-      "GoogleFormsAPI"
-    ]
-  },
-  {
-    "correct": "Business Profile Performance API",
-    "incorrect": [
-      "BusinessProfilePerformanceAPI"
-    ]
-  },
-  {
-    "correct": "Dialogflow API",
-    "incorrect": [
-      "DialogflowAPI"
-    ]
-  },
-  {
-    "correct": "Data Portability API",
-    "incorrect": [
-      "DataPortabilityAPI"
-    ]
-  },
-  {
-    "correct": "My Business Lodging API",
-    "incorrect": [
-      "MyBusinessLodgingAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Storage API",
-    "incorrect": [
-      "CloudStorageAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Data Fusion API",
-    "incorrect": [
-      "CloudDataFusionAPI"
-    ]
-  },
-  {
-    "correct": "Google Play Game Management",
-    "incorrect": [
-      "GooglePlayGameManagement"
-    ]
-  },
-  {
-    "correct": "On-Demand Scanning API",
-    "incorrect": [
-      "On-DemandScanningAPI"
-    ]
-  },
-  {
-    "correct": "Google Calendar API",
-    "incorrect": [
-      "GoogleCalendarAPI"
-    ]
-  },
-  {
-    "correct": "Migration Center API",
-    "incorrect": [
-      "MigrationCenterAPI"
-    ]
-  },
-  {
-    "correct": "Google Play Grouping API",
-    "incorrect": [
-      "GooglePlayGroupingAPI"
-    ]
-  },
-  {
-    "correct": "Service Consumer Management API",
-    "incorrect": [
-      "ServiceConsumerManagementAPI"
-    ]
-  },
-  {
-    "correct": "Google Play Game Services Publishing API",
-    "incorrect": [
-      "GooglePlayGameServicesPublishingAPI"
-    ]
-  },
-  {
-    "correct": "My Business Notifications API",
-    "incorrect": [
-      "MyBusinessNotificationsAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Monitoring API",
-    "incorrect": [
-      "CloudMonitoringAPI"
-    ]
-  },
-  {
-    "correct": "Secret Manager API",
-    "incorrect": [
-      "SecretManagerAPI"
-    ]
-  },
-  {
-    "correct": "Google OAuth2 API",
-    "incorrect": [
-      "GoogleOAuth2API"
-    ]
-  },
-  {
-    "correct": "Drive Labels API",
-    "incorrect": [
-      "DriveLabelsAPI"
-    ]
-  },
-  {
-    "correct": "Books API",
-    "incorrect": [
-      "BooksAPI"
-    ]
-  },
-  {
-    "correct": "Admin SDK API",
-    "incorrect": [
-      "AdminSDKAPI"
-    ]
-  },
-  {
-    "correct": "Policy Simulator API",
-    "incorrect": [
-      "PolicySimulatorAPI"
-    ]
-  },
-  {
-    "correct": "Artifact Registry API",
-    "incorrect": [
-      "ArtifactRegistryAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Life Sciences API",
-    "incorrect": [
-      "CloudLifeSciencesAPI"
-    ]
-  },
-  {
-    "correct": "Error Reporting API",
-    "incorrect": [
-      "ErrorReportingAPI"
-    ]
-  },
-  {
-    "correct": "Network Management API",
-    "incorrect": [
-      "NetworkManagementAPI"
-    ]
-  },
-  {
-    "correct": "Google Play Developer Reporting API",
-    "incorrect": [
-      "GooglePlayDeveloperReportingAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Testing API",
-    "incorrect": [
-      "CloudTestingAPI"
-    ]
-  },
-  {
-    "correct": "Google Play Custom App Publishing API",
-    "incorrect": [
-      "GooglePlayCustomAppPublishingAPI"
-    ]
-  },
-  {
-    "correct": "YouTube Reporting API",
-    "incorrect": [
-      "YouTubeReportingAPI"
+      "OrganizationPolicyAPI"
     ]
   },
   {
@@ -1472,555 +68,27 @@
     ]
   },
   {
-    "correct": "Google Play Android Developer API",
+    "correct": "BeyondCorp API",
     "incorrect": [
-      "GooglePlayAndroidDeveloperAPI"
+      "BeyondCorpAPI"
     ]
   },
   {
-    "correct": "Data Lineage API",
+    "correct": "Container Analysis API",
     "incorrect": [
-      "DataLineageAPI"
+      "ContainerAnalysisAPI"
     ]
   },
   {
-    "correct": "Groups Migration API",
+    "correct": "Google Analytics Admin API",
     "incorrect": [
-      "GroupsMigrationAPI"
+      "GoogleAnalyticsAdminAPI"
     ]
   },
   {
-    "correct": "Cloud Build API",
+    "correct": "Error Reporting API",
     "incorrect": [
-      "CloudBuildAPI"
-    ]
-  },
-  {
-    "correct": "Security Token Service API",
-    "incorrect": [
-      "SecurityTokenServiceAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Dataproc API",
-    "incorrect": [
-      "CloudDataprocAPI"
-    ]
-  },
-  {
-    "correct": "Backup and DR Service API",
-    "incorrect": [
-      "BackupandDRServiceAPI"
-    ]
-  },
-  {
-    "correct": "Fact Check Tools API",
-    "incorrect": [
-      "FactCheckToolsAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Search API",
-    "incorrect": [
-      "CloudSearchAPI"
-    ]
-  },
-  {
-    "correct": "Library Agent API",
-    "incorrect": [
-      "LibraryAgentAPI"
-    ]
-  },
-  {
-    "correct": "Payments Reseller Subscription API",
-    "incorrect": [
-      "PaymentsResellerSubscriptionAPI"
-    ]
-  },
-  {
-    "correct": "Identity Toolkit API",
-    "incorrect": [
-      "IdentityToolkitAPI"
-    ]
-  },
-  {
-    "correct": "Poly API",
-    "incorrect": [
-      "PolyAPI"
-    ]
-  },
-  {
-    "correct": "Domains RDAP API",
-    "incorrect": [
-      "DomainsRDAPAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Deployment Manager V2 API",
-    "incorrect": [
-      "CloudDeploymentManagerV2API"
-    ]
-  },
-  {
-    "correct": "Google Civic Information API",
-    "incorrect": [
-      "GoogleCivicInformationAPI"
-    ]
-  },
-  {
-    "correct": "My Business Account Management API",
-    "incorrect": [
-      "MyBusinessAccountManagementAPI"
-    ]
-  },
-  {
-    "correct": "Public Certificate Authority API",
-    "incorrect": [
-      "PublicCertificateAuthorityAPI"
-    ]
-  },
-  {
-    "correct": "Notebooks API",
-    "incorrect": [
-      "NotebooksAPI"
-    ]
-  },
-  {
-    "correct": "Authorized Buyers Marketplace API",
-    "incorrect": [
-      "AuthorizedBuyersMarketplaceAPI"
-    ]
-  },
-  {
-    "correct": "Contact Center AI Platform API",
-    "incorrect": [
-      "ContactCenterAIPlatformAPI"
-    ]
-  },
-  {
-    "correct": "Firebase ML API",
-    "incorrect": [
-      "FirebaseMLAPI"
-    ]
-  },
-  {
-    "correct": "My Business Q&A API",
-    "incorrect": [
-      "MyBusinessQ&AAPI"
-    ]
-  },
-  {
-    "correct": "Sensitive Data Protection (DLP)",
-    "incorrect": [
-      "SensitiveDataProtection(DLP)"
-    ]
-  },
-  {
-    "correct": "Essential Contacts API",
-    "incorrect": [
-      "EssentialContactsAPI"
-    ]
-  },
-  {
-    "correct": "Search Ads 360 API",
-    "incorrect": [
-      "SearchAds360API"
-    ]
-  },
-  {
-    "correct": "reCAPTCHA Enterprise API",
-    "incorrect": [
-      "reCAPTCHAEnterpriseAPI"
-    ]
-  },
-  {
-    "correct": "Batch API",
-    "incorrect": [
-      "BatchAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Vision API",
-    "incorrect": [
-      "CloudVisionAPI"
-    ]
-  },
-  {
-    "correct": "Assured Workloads API",
-    "incorrect": [
-      "AssuredWorkloadsAPI"
-    ]
-  },
-  {
-    "correct": "Ad Exchange Buyer API II",
-    "incorrect": [
-      "AdExchangeBuyerAPIII"
-    ]
-  },
-  {
-    "correct": "API Gateway API",
-    "incorrect": [
-      "APIGatewayAPI"
-    ]
-  },
-  {
-    "correct": "Drive API",
-    "incorrect": [
-      "DriveAPI"
-    ]
-  },
-  {
-    "correct": "Groups Settings API",
-    "incorrect": [
-      "GroupsSettingsAPI"
-    ]
-  },
-  {
-    "correct": "Application Integration API",
-    "incorrect": [
-      "ApplicationIntegrationAPI"
-    ]
-  },
-  {
-    "correct": "Content API for Shopping",
-    "incorrect": [
-      "ContentAPIforShopping"
-    ]
-  },
-  {
-    "correct": "Cloud Composer API",
-    "incorrect": [
-      "CloudComposerAPI"
-    ]
-  },
-  {
-    "correct": "Managed Service for Microsoft Active Directory API",
-    "incorrect": [
-      "ManagedServiceforMicrosoftActiveDirectoryAPI"
-    ]
-  },
-  {
-    "correct": "Cloud SQL Admin API",
-    "incorrect": [
-      "CloudSQLAdminAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Text-to-Speech API",
-    "incorrect": [
-      "CloudText-to-SpeechAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Tool Results API",
-    "incorrect": [
-      "CloudToolResultsAPI"
-    ]
-  },
-  {
-    "correct": "AdMob API",
-    "incorrect": [
-      "AdMobAPI"
-    ]
-  },
-  {
-    "correct": "Workflow Executions API",
-    "incorrect": [
-      "WorkflowExecutionsAPI"
-    ]
-  },
-  {
-    "correct": "Rapid Migration Assessment API",
-    "incorrect": [
-      "RapidMigrationAssessmentAPI"
-    ]
-  },
-  {
-    "correct": "Network Connectivity API",
-    "incorrect": [
-      "NetworkConnectivityAPI"
-    ]
-  },
-  {
-    "correct": "Real-time Bidding API",
-    "incorrect": [
-      "Real-timeBiddingAPI"
-    ]
-  },
-  {
-    "correct": "YouTube Analytics API",
-    "incorrect": [
-      "YouTubeAnalyticsAPI"
-    ]
-  },
-  {
-    "correct": "Vertex AI API",
-    "incorrect": [
-      "VertexAIAPI"
-    ]
-  },
-  {
-    "correct": "Recommender API",
-    "incorrect": [
-      "RecommenderAPI"
-    ]
-  },
-  {
-    "correct": "Document AI Warehouse API",
-    "incorrect": [
-      "DocumentAIWarehouseAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Document AI API",
-    "incorrect": [
-      "CloudDocumentAIAPI"
-    ]
-  },
-  {
-    "correct": "Enterprise License Manager API",
-    "incorrect": [
-      "EnterpriseLicenseManagerAPI"
-    ]
-  },
-  {
-    "correct": "Reader Revenue Subscription Linking API",
-    "incorrect": [
-      "ReaderRevenueSubscriptionLinkingAPI"
-    ]
-  },
-  {
-    "correct": "Google Analytics API",
-    "incorrect": [
-      "GoogleAnalyticsAPI"
-    ]
-  },
-  {
-    "correct": "Bare Metal Solution API",
-    "incorrect": [
-      "BareMetalSolutionAPI"
-    ]
-  },
-  {
-    "correct": "Blogger API",
-    "incorrect": [
-      "BloggerAPI"
-    ]
-  },
-  {
-    "correct": "Places API (New)",
-    "incorrect": [
-      "PlacesAPI(New)"
-    ]
-  },
-  {
-    "correct": "Google Slides API",
-    "incorrect": [
-      "GoogleSlidesAPI"
-    ]
-  },
-  {
-    "correct": "Google Analytics Data API",
-    "incorrect": [
-      "GoogleAnalyticsDataAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Billing Budget API",
-    "incorrect": [
-      "CloudBillingBudgetAPI"
-    ]
-  },
-  {
-    "correct": "Recommendations AI (Beta)",
-    "incorrect": [
-      "RecommendationsAI(Beta)"
-    ]
-  },
-  {
-    "correct": "Firebase App Distribution API",
-    "incorrect": [
-      "FirebaseAppDistributionAPI"
-    ]
-  },
-  {
-    "correct": "SAS Portal API",
-    "incorrect": [
-      "SASPortalAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Video Intelligence API",
-    "incorrect": [
-      "CloudVideoIntelligenceAPI"
-    ]
-  },
-  {
-    "correct": "YouTube Data API v3",
-    "incorrect": [
-      "YouTubeDataAPIv3"
-    ]
-  },
-  {
-    "correct": "Cloud Storage for Firebase API",
-    "incorrect": [
-      "CloudStorageforFirebaseAPI"
-    ]
-  },
-  {
-    "correct": "Identity and Access Management (IAM) API",
-    "incorrect": [
-      "IdentityandAccessManagement(IAM)API"
-    ]
-  },
-  {
-    "correct": "Service Usage API",
-    "incorrect": [
-      "ServiceUsageAPI"
-    ]
-  },
-  {
-    "correct": "Connectors API",
-    "incorrect": [
-      "ConnectorsAPI"
-    ]
-  },
-  {
-    "correct": "Google Cloud Support API",
-    "incorrect": [
-      "GoogleCloudSupportAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Speech-to-Text API",
-    "incorrect": [
-      "CloudSpeech-to-TextAPI"
-    ]
-  },
-  {
-    "correct": "Ad Experience Report API",
-    "incorrect": [
-      "AdExperienceReportAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Profiler API",
-    "incorrect": [
-      "CloudProfilerAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Run Admin API",
-    "incorrect": [
-      "CloudRunAdminAPI"
-    ]
-  },
-  {
-    "correct": "Advisory Notifications API",
-    "incorrect": [
-      "AdvisoryNotificationsAPI"
-    ]
-  },
-  {
-    "correct": "Data pipelines API",
-    "incorrect": [
-      "DatapipelinesAPI"
-    ]
-  },
-  {
-    "correct": "My Business Place Actions API",
-    "incorrect": [
-      "MyBusinessPlaceActionsAPI"
-    ]
-  },
-  {
-    "correct": "Google Workspace Alert Center API",
-    "incorrect": [
-      "GoogleWorkspaceAlertCenterAPI"
-    ]
-  },
-  {
-    "correct": "Backup for GKE API",
-    "incorrect": [
-      "BackupforGKEAPI"
-    ]
-  },
-  {
-    "correct": "Chrome UX Report API",
-    "incorrect": [
-      "ChromeUXReportAPI"
-    ]
-  },
-  {
-    "correct": "Looker (Google Cloud core) API",
-    "incorrect": [
-      "Looker(GoogleCloudcore)API"
-    ]
-  },
-  {
-    "correct": "Database Migration API",
-    "incorrect": [
-      "DatabaseMigrationAPI"
-    ]
-  },
-  {
-    "correct": "Gmail Postmaster Tools API",
-    "incorrect": [
-      "GmailPostmasterToolsAPI"
-    ]
-  },
-  {
-    "correct": "Access Context Manager API",
-    "incorrect": [
-      "AccessContextManagerAPI"
-    ]
-  },
-  {
-    "correct": "Checks API",
-    "incorrect": [
-      "ChecksAPI"
-    ]
-  },
-  {
-    "correct": "My Business Verifications API",
-    "incorrect": [
-      "MyBusinessVerificationsAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Controls Partner API",
-    "incorrect": [
-      "CloudControlsPartnerAPI"
-    ]
-  },
-  {
-    "correct": "Google Keep API",
-    "incorrect": [
-      "GoogleKeepAPI"
-    ]
-  },
-  {
-    "correct": "Firebase Cloud Messaging Data API",
-    "incorrect": [
-      "FirebaseCloudMessagingDataAPI"
-    ]
-  },
-  {
-    "correct": "Google Sheets API",
-    "incorrect": [
-      "GoogleSheetsAPI"
-    ]
-  },
-  {
-    "correct": "IAM Service Account Credentials API",
-    "incorrect": [
-      "IAMServiceAccountCredentialsAPI"
-    ]
-  },
-  {
-    "correct": "API Discovery Service",
-    "incorrect": [
-      "APIDiscoveryService"
+      "ErrorReportingAPI"
     ]
   },
   {
@@ -2030,87 +98,135 @@
     ]
   },
   {
+    "correct": "OS Config API",
+    "incorrect": [
+      "OSConfigAPI"
+    ]
+  },
+  {
+    "correct": "Recommendations AI (Beta)",
+    "incorrect": [
+      "RecommendationsAI(Beta)"
+    ]
+  },
+  {
+    "correct": "My Business Notifications API",
+    "incorrect": [
+      "MyBusinessNotificationsAPI"
+    ]
+  },
+  {
+    "correct": "Service Usage API",
+    "incorrect": [
+      "ServiceUsageAPI"
+    ]
+  },
+  {
+    "correct": "Chrome Verified Access API",
+    "incorrect": [
+      "ChromeVerifiedAccessAPI"
+    ]
+  },
+  {
+    "correct": "Workflow Executions API",
+    "incorrect": [
+      "WorkflowExecutionsAPI"
+    ]
+  },
+  {
+    "correct": "Network Services API",
+    "incorrect": [
+      "NetworkServicesAPI"
+    ]
+  },
+  {
+    "correct": "Policy Simulator API",
+    "incorrect": [
+      "PolicySimulatorAPI"
+    ]
+  },
+  {
+    "correct": "Dataform API",
+    "incorrect": [
+      "DataformAPI"
+    ]
+  },
+  {
+    "correct": "Google Keep API",
+    "incorrect": [
+      "GoogleKeepAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Logging API",
+    "incorrect": [
+      "CloudLoggingAPI"
+    ]
+  },
+  {
+    "correct": "Cloud IDS API",
+    "incorrect": [
+      "CloudIDSAPI"
+    ]
+  },
+  {
+    "correct": "My Business Place Actions API",
+    "incorrect": [
+      "MyBusinessPlaceActionsAPI"
+    ]
+  },
+  {
+    "correct": "Service Consumer Management API",
+    "incorrect": [
+      "ServiceConsumerManagementAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Translation API",
+    "incorrect": [
+      "CloudTranslationAPI"
+    ]
+  },
+  {
+    "correct": "Drive Activity API",
+    "incorrect": [
+      "DriveActivityAPI"
+    ]
+  },
+  {
+    "correct": "Google Analytics Data API",
+    "incorrect": [
+      "GoogleAnalyticsDataAPI"
+    ]
+  },
+  {
+    "correct": "Firebase Hosting API",
+    "incorrect": [
+      "FirebaseHostingAPI"
+    ]
+  },
+  {
+    "correct": "Accelerated Mobile Pages (AMP) URL API",
+    "incorrect": [
+      "AcceleratedMobilePages(AMP)URLAPI"
+    ]
+  },
+  {
+    "correct": "Google Civic Information API",
+    "incorrect": [
+      "GoogleCivicInformationAPI"
+    ]
+  },
+  {
+    "correct": "Books API",
+    "incorrect": [
+      "BooksAPI"
+    ]
+  },
+  {
     "correct": "BigQuery API",
     "incorrect": [
       "BigQueryAPI"
-    ]
-  },
-  {
-    "correct": "Storage Transfer API",
-    "incorrect": [
-      "StorageTransferAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Pub/Sub API",
-    "incorrect": [
-      "CloudPub/SubAPI"
-    ]
-  },
-  {
-    "correct": "Compute Engine API",
-    "incorrect": [
-      "ComputeEngineAPI"
-    ]
-  },
-  {
-    "correct": "Blockchain Node Engine API",
-    "incorrect": [
-      "BlockchainNodeEngineAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Talent Solution API",
-    "incorrect": [
-      "CloudTalentSolutionAPI"
-    ]
-  },
-  {
-    "correct": "Traffic Director API",
-    "incorrect": [
-      "TrafficDirectorAPI"
-    ]
-  },
-  {
-    "correct": "AlloyDB API",
-    "incorrect": [
-      "AlloyDBAPI"
-    ]
-  },
-  {
-    "correct": "Street View Publish API",
-    "incorrect": [
-      "StreetViewPublishAPI"
-    ]
-  },
-  {
-    "correct": "Certificate Authority API",
-    "incorrect": [
-      "CertificateAuthorityAPI"
-    ]
-  },
-  {
-    "correct": "Serverless VPC Access API",
-    "incorrect": [
-      "ServerlessVPCAccessAPI"
-    ]
-  },
-  {
-    "correct": "KMS Inventory API",
-    "incorrect": [
-      "KMSInventoryAPI"
-    ]
-  },
-  {
-    "correct": "Vertex AI Search for Retail API",
-    "incorrect": [
-      "VertexAISearchforRetailAPI"
-    ]
-  },
-  {
-    "correct": "Apigee API",
-    "incorrect": [
-      "ApigeeAPI"
     ]
   },
   {
@@ -2120,15 +236,849 @@
     ]
   },
   {
-    "correct": "Cloud Domains API",
+    "correct": "Cloud Testing API",
     "incorrect": [
-      "CloudDomainsAPI"
+      "CloudTestingAPI"
+    ]
+  },
+  {
+    "correct": "reCAPTCHA Enterprise API",
+    "incorrect": [
+      "reCAPTCHAEnterpriseAPI"
+    ]
+  },
+  {
+    "correct": "Storage Transfer API",
+    "incorrect": [
+      "StorageTransferAPI"
+    ]
+  },
+  {
+    "correct": "Bare Metal Solution API",
+    "incorrect": [
+      "BareMetalSolutionAPI"
+    ]
+  },
+  {
+    "correct": "Ad Experience Report API",
+    "incorrect": [
+      "AdExperienceReportAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Deploy API",
+    "incorrect": [
+      "CloudDeployAPI"
+    ]
+  },
+  {
+    "correct": "Tag Manager API",
+    "incorrect": [
+      "TagManagerAPI"
+    ]
+  },
+  {
+    "correct": "Google Classroom API",
+    "incorrect": [
+      "GoogleClassroomAPI"
+    ]
+  },
+  {
+    "correct": "BigQuery Data Policy API",
+    "incorrect": [
+      "BigQueryDataPolicyAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Datastore API",
+    "incorrect": [
+      "CloudDatastoreAPI"
+    ]
+  },
+  {
+    "correct": "AI Platform Training & Prediction API",
+    "incorrect": [
+      "AIPlatformTraining&PredictionAPI"
+    ]
+  },
+  {
+    "correct": "GKE Hub API",
+    "incorrect": [
+      "GKEHubAPI"
+    ]
+  },
+  {
+    "correct": "YouTube Data API v3",
+    "incorrect": [
+      "YouTubeDataAPIv3"
     ]
   },
   {
     "correct": "HomeGraph API",
     "incorrect": [
       "HomeGraphAPI"
+    ]
+  },
+  {
+    "correct": "Identity and Access Management (IAM) API",
+    "incorrect": [
+      "IdentityandAccessManagement(IAM)API"
+    ]
+  },
+  {
+    "correct": "Pollen API",
+    "incorrect": [
+      "PollenAPI"
+    ]
+  },
+  {
+    "correct": "BigLake API",
+    "incorrect": [
+      "BigLakeAPI"
+    ]
+  },
+  {
+    "correct": "API Management API",
+    "incorrect": [
+      "APIManagementAPI"
+    ]
+  },
+  {
+    "correct": "Data Lineage API",
+    "incorrect": [
+      "DataLineageAPI"
+    ]
+  },
+  {
+    "correct": "Security Command Center API",
+    "incorrect": [
+      "SecurityCommandCenterAPI"
+    ]
+  },
+  {
+    "correct": "Content API for Shopping",
+    "incorrect": [
+      "ContentAPIforShopping"
+    ]
+  },
+  {
+    "correct": "Cloud Data Fusion API",
+    "incorrect": [
+      "CloudDataFusionAPI"
+    ]
+  },
+  {
+    "correct": "Vertex AI Search for commerce API",
+    "incorrect": [
+      "VertexAISearchforcommerceAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Vision API",
+    "incorrect": [
+      "CloudVisionAPI"
+    ]
+  },
+  {
+    "correct": "Authorized Buyers Marketplace API",
+    "incorrect": [
+      "AuthorizedBuyersMarketplaceAPI"
+    ]
+  },
+  {
+    "correct": "Data Labeling API",
+    "incorrect": [
+      "DataLabelingAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Identity-Aware Proxy API",
+    "incorrect": [
+      "CloudIdentity-AwareProxyAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Life Sciences API",
+    "incorrect": [
+      "CloudLifeSciencesAPI"
+    ]
+  },
+  {
+    "correct": "Network Connectivity API",
+    "incorrect": [
+      "NetworkConnectivityAPI"
+    ]
+  },
+  {
+    "correct": "PageSpeed Insights API",
+    "incorrect": [
+      "PageSpeedInsightsAPI"
+    ]
+  },
+  {
+    "correct": "People API",
+    "incorrect": [
+      "PeopleAPI"
+    ]
+  },
+  {
+    "correct": "Search Ads 360 Reporting API",
+    "incorrect": [
+      "SearchAds360ReportingAPI"
+    ]
+  },
+  {
+    "correct": "Contact Center AI Platform API",
+    "incorrect": [
+      "ContactCenterAIPlatformAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Billing Budget API",
+    "incorrect": [
+      "CloudBillingBudgetAPI"
+    ]
+  },
+  {
+    "correct": "Dialogflow API",
+    "incorrect": [
+      "DialogflowAPI"
+    ]
+  },
+  {
+    "correct": "Enterprise License Manager API",
+    "incorrect": [
+      "EnterpriseLicenseManagerAPI"
+    ]
+  },
+  {
+    "correct": "Service Management API",
+    "incorrect": [
+      "ServiceManagementAPI"
+    ]
+  },
+  {
+    "correct": "Connectors API",
+    "incorrect": [
+      "ConnectorsAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Run Admin API",
+    "incorrect": [
+      "CloudRunAdminAPI"
+    ]
+  },
+  {
+    "correct": "YouTube Reporting API",
+    "incorrect": [
+      "YouTubeReportingAPI"
+    ]
+  },
+  {
+    "correct": "Places Insights API",
+    "incorrect": [
+      "PlacesInsightsAPI"
+    ]
+  },
+  {
+    "correct": "Workflows API",
+    "incorrect": [
+      "WorkflowsAPI"
+    ]
+  },
+  {
+    "correct": "Service Control API",
+    "incorrect": [
+      "ServiceControlAPI"
+    ]
+  },
+  {
+    "correct": "Infrastructure Manager API",
+    "incorrect": [
+      "InfrastructureManagerAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Trace API",
+    "incorrect": [
+      "CloudTraceAPI"
+    ]
+  },
+  {
+    "correct": "Firebase App Check API",
+    "incorrect": [
+      "FirebaseAppCheckAPI"
+    ]
+  },
+  {
+    "correct": "Google Forms API",
+    "incorrect": [
+      "GoogleFormsAPI"
+    ]
+  },
+  {
+    "correct": "NetApp API",
+    "incorrect": [
+      "NetAppAPI"
+    ]
+  },
+  {
+    "correct": "API Keys API",
+    "incorrect": [
+      "APIKeysAPI"
+    ]
+  },
+  {
+    "correct": "Drive Labels API",
+    "incorrect": [
+      "DriveLabelsAPI"
+    ]
+  },
+  {
+    "correct": "Migration Center API",
+    "incorrect": [
+      "MigrationCenterAPI"
+    ]
+  },
+  {
+    "correct": "Address Validation API",
+    "incorrect": [
+      "AddressValidationAPI"
+    ]
+  },
+  {
+    "correct": "Access Approval API",
+    "incorrect": [
+      "AccessApprovalAPI"
+    ]
+  },
+  {
+    "correct": "Google Workspace Reseller API",
+    "incorrect": [
+      "GoogleWorkspaceResellerAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Key Management Service (KMS) API",
+    "incorrect": [
+      "CloudKeyManagementService(KMS)API"
+    ]
+  },
+  {
+    "correct": "API Discovery Service",
+    "incorrect": [
+      "APIDiscoveryService"
+    ]
+  },
+  {
+    "correct": "Google Play Integrity API",
+    "incorrect": [
+      "GooglePlayIntegrityAPI"
+    ]
+  },
+  {
+    "correct": "Fact Check Tools API",
+    "incorrect": [
+      "FactCheckToolsAPI"
+    ]
+  },
+  {
+    "correct": "Smart Device Management API",
+    "incorrect": [
+      "SmartDeviceManagementAPI"
+    ]
+  },
+  {
+    "correct": "Network Management API",
+    "incorrect": [
+      "NetworkManagementAPI"
+    ]
+  },
+  {
+    "correct": "Parallelstore API",
+    "incorrect": [
+      "ParallelstoreAPI"
+    ]
+  },
+  {
+    "correct": "Travel Impact Model API",
+    "incorrect": [
+      "TravelImpactModelAPI"
+    ]
+  },
+  {
+    "correct": "Service Networking API",
+    "incorrect": [
+      "ServiceNetworkingAPI"
+    ]
+  },
+  {
+    "correct": "Checks API",
+    "incorrect": [
+      "ChecksAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Pub/Sub API",
+    "incorrect": [
+      "CloudPub/SubAPI"
+    ]
+  },
+  {
+    "correct": "YouTube Analytics API",
+    "incorrect": [
+      "YouTubeAnalyticsAPI"
+    ]
+  },
+  {
+    "correct": "Security Token Service API",
+    "incorrect": [
+      "SecurityTokenServiceAPI"
+    ]
+  },
+  {
+    "correct": "App Hub API",
+    "incorrect": [
+      "AppHubAPI"
+    ]
+  },
+  {
+    "correct": "Policy Analyzer API",
+    "incorrect": [
+      "PolicyAnalyzerAPI"
+    ]
+  },
+  {
+    "correct": "Payments Reseller Subscription API",
+    "incorrect": [
+      "PaymentsResellerSubscriptionAPI"
+    ]
+  },
+  {
+    "correct": "Cloud TPU API",
+    "incorrect": [
+      "CloudTPUAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Functions API",
+    "incorrect": [
+      "CloudFunctionsAPI"
+    ]
+  },
+  {
+    "correct": "Traffic Director API",
+    "incorrect": [
+      "TrafficDirectorAPI"
+    ]
+  },
+  {
+    "correct": "Ad Exchange Buyer API II",
+    "incorrect": [
+      "AdExchangeBuyerAPIII"
+    ]
+  },
+  {
+    "correct": "Apigee Registry API",
+    "incorrect": [
+      "ApigeeRegistryAPI"
+    ]
+  },
+  {
+    "correct": "BigQuery Connection API",
+    "incorrect": [
+      "BigQueryConnectionAPI"
+    ]
+  },
+  {
+    "correct": "Google Docs API",
+    "incorrect": [
+      "GoogleDocsAPI"
+    ]
+  },
+  {
+    "correct": "Knowledge Graph Search API",
+    "incorrect": [
+      "KnowledgeGraphSearchAPI"
+    ]
+  },
+  {
+    "correct": "Google OAuth2 API",
+    "incorrect": [
+      "GoogleOAuth2API"
+    ]
+  },
+  {
+    "correct": "Reader Revenue Subscription Linking API",
+    "incorrect": [
+      "ReaderRevenueSubscriptionLinkingAPI"
+    ]
+  },
+  {
+    "correct": "BigQuery Data Transfer API",
+    "incorrect": [
+      "BigQueryDataTransferAPI"
+    ]
+  },
+  {
+    "correct": "Google Tasks API",
+    "incorrect": [
+      "GoogleTasksAPI"
+    ]
+  },
+  {
+    "correct": "Assured Workloads API",
+    "incorrect": [
+      "AssuredWorkloadsAPI"
+    ]
+  },
+  {
+    "correct": "Dataflow API",
+    "incorrect": [
+      "DataflowAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Bigtable Admin API",
+    "incorrect": [
+      "CloudBigtableAdminAPI"
+    ]
+  },
+  {
+    "correct": "SAS Portal API",
+    "incorrect": [
+      "SASPortalAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Workstations API",
+    "incorrect": [
+      "CloudWorkstationsAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Speech-to-Text API",
+    "incorrect": [
+      "CloudSpeech-to-TextAPI"
+    ]
+  },
+  {
+    "correct": "GDC Virtual API",
+    "incorrect": [
+      "GDCVirtualAPI"
+    ]
+  },
+  {
+    "correct": "My Business Account Management API",
+    "incorrect": [
+      "MyBusinessAccountManagementAPI"
+    ]
+  },
+  {
+    "correct": "Chrome Policy API",
+    "incorrect": [
+      "ChromePolicyAPI"
+    ]
+  },
+  {
+    "correct": "Recommender API",
+    "incorrect": [
+      "RecommenderAPI"
+    ]
+  },
+  {
+    "correct": "Drive API",
+    "incorrect": [
+      "DriveAPI"
+    ]
+  },
+  {
+    "correct": "Android Management API",
+    "incorrect": [
+      "AndroidManagementAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Controls Partner API",
+    "incorrect": [
+      "CloudControlsPartnerAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Dataplex API",
+    "incorrect": [
+      "CloudDataplexAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Tool Results API",
+    "incorrect": [
+      "CloudToolResultsAPI"
+    ]
+  },
+  {
+    "correct": "Managed Service for Microsoft Active Directory API",
+    "incorrect": [
+      "ManagedServiceforMicrosoftActiveDirectoryAPI"
+    ]
+  },
+  {
+    "correct": "versionhistory.googleapis.com API",
+    "incorrect": [
+      "versionhistory.googleapis.comAPI"
+    ]
+  },
+  {
+    "correct": "Binary Authorization API",
+    "incorrect": [
+      "BinaryAuthorizationAPI"
+    ]
+  },
+  {
+    "correct": "Blogger API",
+    "incorrect": [
+      "BloggerAPI"
+    ]
+  },
+  {
+    "correct": "Google Analytics API",
+    "incorrect": [
+      "GoogleAnalyticsAPI"
+    ]
+  },
+  {
+    "correct": "Chrome Management API",
+    "incorrect": [
+      "ChromeManagementAPI"
+    ]
+  },
+  {
+    "correct": "DoubleClick Bid Manager API",
+    "incorrect": [
+      "DoubleClickBidManagerAPI"
+    ]
+  },
+  {
+    "correct": "Application Integration API",
+    "incorrect": [
+      "ApplicationIntegrationAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Identity API",
+    "incorrect": [
+      "CloudIdentityAPI"
+    ]
+  },
+  {
+    "correct": "Advisory Notifications API",
+    "incorrect": [
+      "AdvisoryNotificationsAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Tasks API",
+    "incorrect": [
+      "CloudTasksAPI"
+    ]
+  },
+  {
+    "correct": "Essential Contacts API",
+    "incorrect": [
+      "EssentialContactsAPI"
+    ]
+  },
+  {
+    "correct": "Google Cloud Support API",
+    "incorrect": [
+      "GoogleCloudSupportAPI"
+    ]
+  },
+  {
+    "correct": "Firebase Realtime Database Management API",
+    "incorrect": [
+      "FirebaseRealtimeDatabaseManagementAPI"
+    ]
+  },
+  {
+    "correct": "Google Play EMM API",
+    "incorrect": [
+      "GooglePlayEMMAPI"
+    ]
+  },
+  {
+    "correct": "Area120 Tables API",
+    "incorrect": [
+      "Area120TablesAPI"
+    ]
+  },
+  {
+    "correct": "Display & Video 360 API",
+    "incorrect": [
+      "Display&Video360API"
+    ]
+  },
+  {
+    "correct": "Web Fonts Developer API",
+    "incorrect": [
+      "WebFontsDeveloperAPI"
+    ]
+  },
+  {
+    "correct": "Web Risk API",
+    "incorrect": [
+      "WebRiskAPI"
+    ]
+  },
+  {
+    "correct": "Workload Manager API",
+    "incorrect": [
+      "WorkloadManagerAPI"
+    ]
+  },
+  {
+    "correct": "Artifact Registry API",
+    "incorrect": [
+      "ArtifactRegistryAPI"
+    ]
+  },
+  {
+    "correct": "Google Workspace Events API",
+    "incorrect": [
+      "GoogleWorkspaceEventsAPI"
+    ]
+  },
+  {
+    "correct": "Notebooks API",
+    "incorrect": [
+      "NotebooksAPI"
+    ]
+  },
+  {
+    "correct": "Google Cloud Data Catalog API",
+    "incorrect": [
+      "GoogleCloudDataCatalogAPI"
+    ]
+  },
+  {
+    "correct": "Compute Engine API",
+    "incorrect": [
+      "ComputeEngineAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Resource Manager API",
+    "incorrect": [
+      "CloudResourceManagerAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Spanner API",
+    "incorrect": [
+      "CloudSpannerAPI"
+    ]
+  },
+  {
+    "correct": "Google Play Custom App Publishing API",
+    "incorrect": [
+      "GooglePlayCustomAppPublishingAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Runtime Configuration API",
+    "incorrect": [
+      "CloudRuntimeConfigurationAPI"
+    ]
+  },
+  {
+    "correct": "Analytics Hub API",
+    "incorrect": [
+      "AnalyticsHubAPI"
+    ]
+  },
+  {
+    "correct": "Backup for GKE API",
+    "incorrect": [
+      "BackupforGKEAPI"
+    ]
+  },
+  {
+    "correct": "Apps Script API",
+    "incorrect": [
+      "AppsScriptAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Document AI API",
+    "incorrect": [
+      "CloudDocumentAIAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Talent Solution API",
+    "incorrect": [
+      "CloudTalentSolutionAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Composer API",
+    "incorrect": [
+      "CloudComposerAPI"
+    ]
+  },
+  {
+    "correct": "Security Posture API",
+    "incorrect": [
+      "SecurityPostureAPI"
+    ]
+  },
+  {
+    "correct": "Eventarc API",
+    "incorrect": [
+      "EventarcAPI"
+    ]
+  },
+  {
+    "correct": "Business Profile Performance API",
+    "incorrect": [
+      "BusinessProfilePerformanceAPI"
+    ]
+  },
+  {
+    "correct": "My Business Q&A API",
+    "incorrect": [
+      "MyBusinessQ&AAPI"
+    ]
+  },
+  {
+    "correct": "Transcoder API",
+    "incorrect": [
+      "TranscoderAPI"
+    ]
+  },
+  {
+    "correct": "SAS Portal API (Testing)",
+    "incorrect": [
+      "SASPortalAPI(Testing)"
+    ]
+  },
+  {
+    "correct": "Cloud Firestore API",
+    "incorrect": [
+      "CloudFirestoreAPI"
+    ]
+  },
+  {
+    "correct": "Groups Settings API",
+    "incorrect": [
+      "GroupsSettingsAPI"
+    ]
+  },
+  {
+    "correct": "Firebase Management API",
+    "incorrect": [
+      "FirebaseManagementAPI"
     ]
   },
   {
@@ -2144,15 +1094,9 @@
     ]
   },
   {
-    "correct": "Solar API",
+    "correct": "Site Verification API",
     "incorrect": [
-      "SolarAPI"
-    ]
-  },
-  {
-    "correct": "Tag Manager API",
-    "incorrect": [
-      "TagManagerAPI"
+      "SiteVerificationAPI"
     ]
   },
   {
@@ -2162,753 +1106,15 @@
     ]
   },
   {
-    "correct": "Google Play Integrity API",
+    "correct": "Rapid Migration Assessment API",
     "incorrect": [
-      "GooglePlayIntegrityAPI"
+      "RapidMigrationAssessmentAPI"
     ]
   },
   {
-    "correct": "Cloud Workstations API",
+    "correct": "Access Context Manager API",
     "incorrect": [
-      "CloudWorkstationsAPI"
-    ]
-  },
-  {
-    "correct": "People API",
-    "incorrect": [
-      "PeopleAPI"
-    ]
-  },
-  {
-    "correct": "Chrome Management API",
-    "incorrect": [
-      "ChromeManagementAPI"
-    ]
-  },
-  {
-    "correct": "Firebase Rules API",
-    "incorrect": [
-      "FirebaseRulesAPI"
-    ]
-  },
-  {
-    "correct": "BigQuery Data Policy API",
-    "incorrect": [
-      "BigQueryDataPolicyAPI"
-    ]
-  },
-  {
-    "correct": "Custom Search API",
-    "incorrect": [
-      "CustomSearchAPI"
-    ]
-  },
-  {
-    "correct": "Dataflow API",
-    "incorrect": [
-      "DataflowAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Tasks API",
-    "incorrect": [
-      "CloudTasksAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Filestore API",
-    "incorrect": [
-      "CloudFilestoreAPI"
-    ]
-  },
-  {
-    "correct": "Google Play Game Services",
-    "incorrect": [
-      "GooglePlayGameServices"
-    ]
-  },
-  {
-    "correct": "Abusive Experience Report API",
-    "incorrect": [
-      "AbusiveExperienceReportAPI"
-    ]
-  },
-  {
-    "correct": "Analytics Hub API",
-    "incorrect": [
-      "AnalyticsHubAPI"
-    ]
-  },
-  {
-    "correct": "Network Services API",
-    "incorrect": [
-      "NetworkServicesAPI"
-    ]
-  },
-  {
-    "correct": "Firebase Realtime Database API",
-    "incorrect": [
-      "FirebaseRealtimeDatabaseAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Resource Manager API",
-    "incorrect": [
-      "CloudResourceManagerAPI"
-    ]
-  },
-  {
-    "correct": "Safe Browsing API",
-    "incorrect": [
-      "SafeBrowsingAPI"
-    ]
-  },
-  {
-    "correct": "Certificate Manager API",
-    "incorrect": [
-      "CertificateManagerAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Source Repositories API",
-    "incorrect": [
-      "CloudSourceRepositoriesAPI"
-    ]
-  },
-  {
-    "correct": "Google Workspace Events API",
-    "incorrect": [
-      "GoogleWorkspaceEventsAPI"
-    ]
-  },
-  {
-    "correct": "Display & Video 360 API",
-    "incorrect": [
-      "Display&Video360API"
-    ]
-  },
-  {
-    "correct": "Smart Device Management API",
-    "incorrect": [
-      "SmartDeviceManagementAPI"
-    ]
-  },
-  {
-    "correct": "Travel Impact Model API",
-    "incorrect": [
-      "TravelImpactModelAPI"
-    ]
-  },
-  {
-    "correct": "Workload Manager API",
-    "incorrect": [
-      "WorkloadManagerAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Spanner API",
-    "incorrect": [
-      "CloudSpannerAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Shell API",
-    "incorrect": [
-      "CloudShellAPI"
-    ]
-  },
-  {
-    "correct": "Binary Authorization API",
-    "incorrect": [
-      "BinaryAuthorizationAPI"
-    ]
-  },
-  {
-    "correct": "Network Security API",
-    "incorrect": [
-      "NetworkSecurityAPI"
-    ]
-  },
-  {
-    "correct": "App Engine Admin API",
-    "incorrect": [
-      "AppEngineAdminAPI"
-    ]
-  },
-  {
-    "correct": "My Business Business Information API",
-    "incorrect": [
-      "MyBusinessBusinessInformationAPI"
-    ]
-  },
-  {
-    "correct": "Firebase Cloud Messaging API",
-    "incorrect": [
-      "FirebaseCloudMessagingAPI"
-    ]
-  },
-  {
-    "correct": "Service Control API",
-    "incorrect": [
-      "ServiceControlAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Firestore API",
-    "incorrect": [
-      "CloudFirestoreAPI"
-    ]
-  },
-  {
-    "correct": "Google Vault API",
-    "incorrect": [
-      "GoogleVaultAPI"
-    ]
-  },
-  {
-    "correct": "Cloud OS Login API",
-    "incorrect": [
-      "CloudOSLoginAPI"
-    ]
-  },
-  {
-    "correct": "Google Wallet API",
-    "incorrect": [
-      "GoogleWalletAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Dataplex API",
-    "incorrect": [
-      "CloudDataplexAPI"
-    ]
-  },
-  {
-    "correct": "OS Config API",
-    "incorrect": [
-      "OSConfigAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Datastore API",
-    "incorrect": [
-      "CloudDatastoreAPI"
-    ]
-  },
-  {
-    "correct": "Google Search Console API",
-    "incorrect": [
-      "GoogleSearchConsoleAPI"
-    ]
-  },
-  {
-    "correct": "Address Validation API",
-    "incorrect": [
-      "AddressValidationAPI"
-    ]
-  },
-  {
-    "correct": "BigQuery Connection API",
-    "incorrect": [
-      "BigQueryConnectionAPI"
-    ]
-  },
-  {
-    "correct": "Google Marketing Platform Admin API",
-    "incorrect": [
-      "GoogleMarketingPlatformAdminAPI"
-    ]
-  },
-  {
-    "correct": "BigQuery Data Transfer API",
-    "incorrect": [
-      "BigQueryDataTransferAPI"
-    ]
-  },
-  {
-    "correct": "SAS Portal API (Testing)",
-    "incorrect": [
-      "SASPortalAPI(Testing)"
-    ]
-  },
-  {
-    "correct": "Cloud Runtime Configuration API",
-    "incorrect": [
-      "CloudRuntimeConfigurationAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Trace API",
-    "incorrect": [
-      "CloudTraceAPI"
-    ]
-  },
-  {
-    "correct": "Dataproc Metastore API",
-    "incorrect": [
-      "DataprocMetastoreAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Logging API",
-    "incorrect": [
-      "CloudLoggingAPI"
-    ]
-  },
-  {
-    "correct": "Fitness API",
-    "incorrect": [
-      "FitnessAPI"
-    ]
-  },
-  {
-    "correct": "Area120 Tables API",
-    "incorrect": [
-      "Area120TablesAPI"
-    ]
-  },
-  {
-    "correct": "Service Networking API",
-    "incorrect": [
-      "ServiceNetworkingAPI"
-    ]
-  },
-  {
-    "correct": "Local Services API",
-    "incorrect": [
-      "LocalServicesAPI"
-    ]
-  },
-  {
-    "correct": "VMware Engine API",
-    "incorrect": [
-      "VMwareEngineAPI"
-    ]
-  },
-  {
-    "correct": "AI Platform Training & Prediction API",
-    "incorrect": [
-      "AIPlatformTraining&PredictionAPI"
-    ]
-  },
-  {
-    "correct": "Drive Activity API",
-    "incorrect": [
-      "DriveActivityAPI"
-    ]
-  },
-  {
-    "correct": "Kubernetes Engine API",
-    "incorrect": [
-      "KubernetesEngineAPI"
-    ]
-  },
-  {
-    "correct": "Google Cloud Memorystore for Redis API",
-    "incorrect": [
-      "GoogleCloudMemorystoreforRedisAPI"
-    ]
-  },
-  {
-    "correct": "Web Security Scanner API",
-    "incorrect": [
-      "WebSecurityScannerAPI"
-    ]
-  },
-  {
-    "correct": "GKE Hub API",
-    "incorrect": [
-      "GKEHubAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Identity API",
-    "incorrect": [
-      "CloudIdentityAPI"
-    ]
-  },
-  {
-    "correct": "App Hub API",
-    "incorrect": [
-      "AppHubAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Deploy API",
-    "incorrect": [
-      "CloudDeployAPI"
-    ]
-  },
-  {
-    "correct": "Organization Policy API",
-    "incorrect": [
-      "OrganizationPolicyAPI"
-    ]
-  },
-  {
-    "correct": "Cloud TPU API",
-    "incorrect": [
-      "CloudTPUAPI"
-    ]
-  },
-  {
-    "correct": "Search Ads 360 Reporting API",
-    "incorrect": [
-      "SearchAds360ReportingAPI"
-    ]
-  },
-  {
-    "correct": "AdSense Host API",
-    "incorrect": [
-      "AdSenseHostAPI"
-    ]
-  },
-  {
-    "correct": "VM Migration API",
-    "incorrect": [
-      "VMMigrationAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Billing API",
-    "incorrect": [
-      "CloudBillingAPI"
-    ]
-  },
-  {
-    "correct": "BeyondCorp API",
-    "incorrect": [
-      "BeyondCorpAPI"
-    ]
-  },
-  {
-    "correct": "Web Risk API",
-    "incorrect": [
-      "WebRiskAPI"
-    ]
-  },
-  {
-    "correct": "Pub/Sub Lite API",
-    "incorrect": [
-      "Pub/SubLiteAPI"
-    ]
-  },
-  {
-    "correct": "Accelerated Mobile Pages (AMP) URL API",
-    "incorrect": [
-      "AcceleratedMobilePages(AMP)URLAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Channel API",
-    "incorrect": [
-      "CloudChannelAPI"
-    ]
-  },
-  {
-    "correct": "Digital Asset Links API",
-    "incorrect": [
-      "DigitalAssetLinksAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Translation API",
-    "incorrect": [
-      "CloudTranslationAPI"
-    ]
-  },
-  {
-    "correct": "Data Labeling API",
-    "incorrect": [
-      "DataLabelingAPI"
-    ]
-  },
-  {
-    "correct": "Campaign Manager 360 API",
-    "incorrect": [
-      "CampaignManager360API"
-    ]
-  },
-  {
-    "correct": "PageSpeed Insights API",
-    "incorrect": [
-      "PageSpeedInsightsAPI"
-    ]
-  },
-  {
-    "correct": "Contact Center AI Insights API",
-    "incorrect": [
-      "ContactCenterAIInsightsAPI"
-    ]
-  },
-  {
-    "correct": "DoubleClick Bid Manager API",
-    "incorrect": [
-      "DoubleClickBidManagerAPI"
-    ]
-  },
-  {
-    "correct": "Site Verification API",
-    "incorrect": [
-      "SiteVerificationAPI"
-    ]
-  },
-  {
-    "correct": "Knowledge Graph Search API",
-    "incorrect": [
-      "KnowledgeGraphSearchAPI"
-    ]
-  },
-  {
-    "correct": "Firebase Management API",
-    "incorrect": [
-      "FirebaseManagementAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Memorystore for Memcached API",
-    "incorrect": [
-      "CloudMemorystoreforMemcachedAPI"
-    ]
-  },
-  {
-    "correct": "ACME DNS API",
-    "incorrect": [
-      "ACMEDNSAPI"
-    ]
-  },
-  {
-    "correct": "BigLake API",
-    "incorrect": [
-      "BigLakeAPI"
-    ]
-  },
-  {
-    "correct": "Service Directory API",
-    "incorrect": [
-      "ServiceDirectoryAPI"
-    ]
-  },
-  {
-    "correct": "Chrome Policy API",
-    "incorrect": [
-      "ChromePolicyAPI"
-    ]
-  },
-  {
-    "correct": "versionhistory.googleapis.com API",
-    "incorrect": [
-      "versionhistory.googleapis.comAPI"
-    ]
-  },
-  {
-    "correct": "Service Management API",
-    "incorrect": [
-      "ServiceManagementAPI"
-    ]
-  },
-  {
-    "correct": "Policy Analyzer API",
-    "incorrect": [
-      "PolicyAnalyzerAPI"
-    ]
-  },
-  {
-    "correct": "Apps Script API",
-    "incorrect": [
-      "AppsScriptAPI"
-    ]
-  },
-  {
-    "correct": "GDC Virtual API",
-    "incorrect": [
-      "GDCVirtualAPI"
-    ]
-  },
-  {
-    "correct": "Transcoder API",
-    "incorrect": [
-      "TranscoderAPI"
-    ]
-  },
-  {
-    "correct": "Security Command Center API",
-    "incorrect": [
-      "SecurityCommandCenterAPI"
-    ]
-  },
-  {
-    "correct": "Container Analysis API",
-    "incorrect": [
-      "ContainerAnalysisAPI"
-    ]
-  },
-  {
-    "correct": "Android Management API",
-    "incorrect": [
-      "AndroidManagementAPI"
-    ]
-  },
-  {
-    "correct": "Google Analytics Admin API",
-    "incorrect": [
-      "GoogleAnalyticsAdminAPI"
-    ]
-  },
-  {
-    "correct": "Apigee Registry API",
-    "incorrect": [
-      "ApigeeRegistryAPI"
-    ]
-  },
-  {
-    "correct": "Workflows API",
-    "incorrect": [
-      "WorkflowsAPI"
-    ]
-  },
-  {
-    "correct": "Eventarc API",
-    "incorrect": [
-      "EventarcAPI"
-    ]
-  },
-  {
-    "correct": "Google Classroom API",
-    "incorrect": [
-      "GoogleClassroomAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Healthcare API",
-    "incorrect": [
-      "CloudHealthcareAPI"
-    ]
-  },
-  {
-    "correct": "Access Approval API",
-    "incorrect": [
-      "AccessApprovalAPI"
-    ]
-  },
-  {
-    "correct": "Datastream API",
-    "incorrect": [
-      "DatastreamAPI"
-    ]
-  },
-  {
-    "correct": "Google Workspace Reseller API",
-    "incorrect": [
-      "GoogleWorkspaceResellerAPI"
-    ]
-  },
-  {
-    "correct": "Resource Settings API",
-    "incorrect": [
-      "ResourceSettingsAPI"
-    ]
-  },
-  {
-    "correct": "Web Fonts Developer API",
-    "incorrect": [
-      "WebFontsDeveloperAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Bigtable Admin API",
-    "incorrect": [
-      "CloudBigtableAdminAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Scheduler API",
-    "incorrect": [
-      "CloudSchedulerAPI"
-    ]
-  },
-  {
-    "correct": "API Keys API",
-    "incorrect": [
-      "APIKeysAPI"
-    ]
-  },
-  {
-    "correct": "Dataform API",
-    "incorrect": [
-      "DataformAPI"
-    ]
-  },
-  {
-    "correct": "Cloud IDS API",
-    "incorrect": [
-      "CloudIDSAPI"
-    ]
-  },
-  {
-    "correct": "Google Docs API",
-    "incorrect": [
-      "GoogleDocsAPI"
-    ]
-  },
-  {
-    "correct": "Infrastructure Manager API",
-    "incorrect": [
-      "InfrastructureManagerAPI"
-    ]
-  },
-  {
-    "correct": "Firebase App Check API",
-    "incorrect": [
-      "FirebaseAppCheckAPI"
-    ]
-  },
-  {
-    "correct": "Google Tasks API",
-    "incorrect": [
-      "GoogleTasksAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Key Management Service (KMS) API",
-    "incorrect": [
-      "CloudKeyManagementService(KMS)API"
-    ]
-  },
-  {
-    "correct": "Cloud Identity-Aware Proxy API",
-    "incorrect": [
-      "CloudIdentity-AwareProxyAPI"
-    ]
-  },
-  {
-    "correct": "Cloud Asset API",
-    "incorrect": [
-      "CloudAssetAPI"
-    ]
-  },
-  {
-    "correct": "Google Cloud Data Catalog API",
-    "incorrect": [
-      "GoogleCloudDataCatalogAPI"
-    ]
-  },
-  {
-    "correct": "Google Play EMM API",
-    "incorrect": [
-      "GooglePlayEMMAPI"
-    ]
-  },
-  {
-    "correct": "Firebase Dynamic Links API",
-    "incorrect": [
-      "FirebaseDynamicLinksAPI"
-    ]
-  },
-  {
-    "correct": "Web Search Indexing API",
-    "incorrect": [
-      "WebSearchIndexingAPI"
+      "AccessContextManagerAPI"
     ]
   },
   {
@@ -2918,27 +1124,195 @@
     ]
   },
   {
-    "correct": "Cloud Natural Language API",
+    "correct": "Apigee API",
     "incorrect": [
-      "CloudNaturalLanguageAPI"
+      "ApigeeAPI"
     ]
   },
   {
-    "correct": "Cloud Functions API",
+    "correct": "Custom Search API",
     "incorrect": [
-      "CloudFunctionsAPI"
+      "CustomSearchAPI"
     ]
   },
   {
-    "correct": "Chrome Verified Access API",
+    "correct": "Cloud Healthcare API",
     "incorrect": [
-      "ChromeVerifiedAccessAPI"
+      "CloudHealthcareAPI"
     ]
   },
   {
-    "correct": "Firebase Hosting API",
+    "correct": "Cloud Filestore API",
     "incorrect": [
-      "FirebaseHostingAPI"
+      "CloudFilestoreAPI"
+    ]
+  },
+  {
+    "correct": "Web Security Scanner API",
+    "incorrect": [
+      "WebSecurityScannerAPI"
+    ]
+  },
+  {
+    "correct": "Document AI Warehouse API",
+    "incorrect": [
+      "DocumentAIWarehouseAPI"
+    ]
+  },
+  {
+    "correct": "Admin SDK API",
+    "incorrect": [
+      "AdminSDKAPI"
+    ]
+  },
+  {
+    "correct": "Firebase Rules API",
+    "incorrect": [
+      "FirebaseRulesAPI"
+    ]
+  },
+  {
+    "correct": "Google Cloud Memorystore for Redis API",
+    "incorrect": [
+      "GoogleCloudMemorystoreforRedisAPI"
+    ]
+  },
+  {
+    "correct": "Solar API",
+    "incorrect": [
+      "SolarAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Storage API",
+    "incorrect": [
+      "CloudStorageAPI"
+    ]
+  },
+  {
+    "correct": "Backup and DR Service API",
+    "incorrect": [
+      "BackupandDRServiceAPI"
+    ]
+  },
+  {
+    "correct": "Serverless VPC Access API",
+    "incorrect": [
+      "ServerlessVPCAccessAPI"
+    ]
+  },
+  {
+    "correct": "Dataproc Metastore API",
+    "incorrect": [
+      "DataprocMetastoreAPI"
+    ]
+  },
+  {
+    "correct": "Google Play Grouping API",
+    "incorrect": [
+      "GooglePlayGroupingAPI"
+    ]
+  },
+  {
+    "correct": "AlloyDB API",
+    "incorrect": [
+      "AlloyDBAPI"
+    ]
+  },
+  {
+    "correct": "Merchant API",
+    "incorrect": [
+      "MerchantAPI"
+    ]
+  },
+  {
+    "correct": "Places API (New)",
+    "incorrect": [
+      "PlacesAPI(New)"
+    ]
+  },
+  {
+    "correct": "On-Demand Scanning API",
+    "incorrect": [
+      "On-DemandScanningAPI"
+    ]
+  },
+  {
+    "correct": "Secret Manager API",
+    "incorrect": [
+      "SecretManagerAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Build API",
+    "incorrect": [
+      "CloudBuildAPI"
+    ]
+  },
+  {
+    "correct": "KMS Inventory API",
+    "incorrect": [
+      "KMSInventoryAPI"
+    ]
+  },
+  {
+    "correct": "Firebase Cloud Messaging Data API",
+    "incorrect": [
+      "FirebaseCloudMessagingDataAPI"
+    ]
+  },
+  {
+    "correct": "Firebase ML API",
+    "incorrect": [
+      "FirebaseMLAPI"
+    ]
+  },
+  {
+    "correct": "Kubernetes Engine API",
+    "incorrect": [
+      "KubernetesEngineAPI"
+    ]
+  },
+  {
+    "correct": "My Business Lodging API",
+    "incorrect": [
+      "MyBusinessLodgingAPI"
+    ]
+  },
+  {
+    "correct": "Google Wallet API",
+    "incorrect": [
+      "GoogleWalletAPI"
+    ]
+  },
+  {
+    "correct": "Cloud SQL Admin API",
+    "incorrect": [
+      "CloudSQLAdminAPI"
+    ]
+  },
+  {
+    "correct": "Google Play Game Services Publishing API",
+    "incorrect": [
+      "GooglePlayGameServicesPublishingAPI"
+    ]
+  },
+  {
+    "correct": "Gmail Postmaster Tools API",
+    "incorrect": [
+      "GmailPostmasterToolsAPI"
+    ]
+  },
+  {
+    "correct": "Sensitive Data Protection (DLP)",
+    "incorrect": [
+      "SensitiveDataProtection(DLP)"
+    ]
+  },
+  {
+    "correct": "Data pipelines API",
+    "incorrect": [
+      "DatapipelinesAPI"
     ]
   },
   {
@@ -2948,9 +1322,459 @@
     ]
   },
   {
+    "correct": "Cloud OS Login API",
+    "incorrect": [
+      "CloudOSLoginAPI"
+    ]
+  },
+  {
+    "correct": "Groups Migration API",
+    "incorrect": [
+      "GroupsMigrationAPI"
+    ]
+  },
+  {
+    "correct": "Library Agent API",
+    "incorrect": [
+      "LibraryAgentAPI"
+    ]
+  },
+  {
+    "correct": "Vertex AI API",
+    "incorrect": [
+      "VertexAIAPI"
+    ]
+  },
+  {
+    "correct": "Service Directory API",
+    "incorrect": [
+      "ServiceDirectoryAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Shell API",
+    "incorrect": [
+      "CloudShellAPI"
+    ]
+  },
+  {
+    "correct": "Identity Toolkit API",
+    "incorrect": [
+      "IdentityToolkitAPI"
+    ]
+  },
+  {
+    "correct": "AdSense Platform API",
+    "incorrect": [
+      "AdSensePlatformAPI"
+    ]
+  },
+  {
+    "correct": "Pub/Sub Lite API",
+    "incorrect": [
+      "Pub/SubLiteAPI"
+    ]
+  },
+  {
+    "correct": "My Business Business Information API",
+    "incorrect": [
+      "MyBusinessBusinessInformationAPI"
+    ]
+  },
+  {
+    "correct": "Google Sheets API",
+    "incorrect": [
+      "GoogleSheetsAPI"
+    ]
+  },
+  {
+    "correct": "Google Calendar API",
+    "incorrect": [
+      "GoogleCalendarAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Text-to-Speech API",
+    "incorrect": [
+      "CloudText-to-SpeechAPI"
+    ]
+  },
+  {
+    "correct": "Real-time Bidding API",
+    "incorrect": [
+      "Real-timeBiddingAPI"
+    ]
+  },
+  {
+    "correct": "Blockchain Node Engine API",
+    "incorrect": [
+      "BlockchainNodeEngineAPI"
+    ]
+  },
+  {
+    "correct": "Database Migration API",
+    "incorrect": [
+      "DatabaseMigrationAPI"
+    ]
+  },
+  {
+    "correct": "Campaign Manager 360 API",
+    "incorrect": [
+      "CampaignManager360API"
+    ]
+  },
+  {
+    "correct": "Firebase Dynamic Links API",
+    "incorrect": [
+      "FirebaseDynamicLinksAPI"
+    ]
+  },
+  {
+    "correct": "Google Workspace Alert Center API",
+    "incorrect": [
+      "GoogleWorkspaceAlertCenterAPI"
+    ]
+  },
+  {
+    "correct": "Google Play Android Developer API",
+    "incorrect": [
+      "GooglePlayAndroidDeveloperAPI"
+    ]
+  },
+  {
+    "correct": "Cloud DNS API",
+    "incorrect": [
+      "CloudDNSAPI"
+    ]
+  },
+  {
+    "correct": "Batch API",
+    "incorrect": [
+      "BatchAPI"
+    ]
+  },
+  {
+    "correct": "Local Services API",
+    "incorrect": [
+      "LocalServicesAPI"
+    ]
+  },
+  {
+    "correct": "Firebase Data Connect API",
+    "incorrect": [
+      "FirebaseDataConnectAPI"
+    ]
+  },
+  {
+    "correct": "Abusive Experience Report API",
+    "incorrect": [
+      "AbusiveExperienceReportAPI"
+    ]
+  },
+  {
+    "correct": "VMware Engine API",
+    "incorrect": [
+      "VMwareEngineAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Natural Language API",
+    "incorrect": [
+      "CloudNaturalLanguageAPI"
+    ]
+  },
+  {
+    "correct": "Fitness API",
+    "incorrect": [
+      "FitnessAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Memorystore for Memcached API",
+    "incorrect": [
+      "CloudMemorystoreforMemcachedAPI"
+    ]
+  },
+  {
     "correct": "Gmail API",
     "incorrect": [
       "GmailAPI"
+    ]
+  },
+  {
+    "correct": "Safe Browsing API",
+    "incorrect": [
+      "SafeBrowsingAPI"
+    ]
+  },
+  {
+    "correct": "CSS API",
+    "incorrect": [
+      "CSSAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Scheduler API",
+    "incorrect": [
+      "CloudSchedulerAPI"
+    ]
+  },
+  {
+    "correct": "Network Security API",
+    "incorrect": [
+      "NetworkSecurityAPI"
+    ]
+  },
+  {
+    "correct": "Public Certificate Authority API",
+    "incorrect": [
+      "PublicCertificateAuthorityAPI"
+    ]
+  },
+  {
+    "correct": "Google Marketing Platform Admin API",
+    "incorrect": [
+      "GoogleMarketingPlatformAdminAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Deployment Manager V2 API",
+    "incorrect": [
+      "CloudDeploymentManagerV2API"
+    ]
+  },
+  {
+    "correct": "Looker (Google Cloud core) API",
+    "incorrect": [
+      "Looker(GoogleCloudcore)API"
+    ]
+  },
+  {
+    "correct": "Cloud Asset API",
+    "incorrect": [
+      "CloudAssetAPI"
+    ]
+  },
+  {
+    "correct": "Developer Connect API",
+    "incorrect": [
+      "DeveloperConnectAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Search API",
+    "incorrect": [
+      "CloudSearchAPI"
+    ]
+  },
+  {
+    "correct": "Digital Asset Links API",
+    "incorrect": [
+      "DigitalAssetLinksAPI"
+    ]
+  },
+  {
+    "correct": "Data Portability API",
+    "incorrect": [
+      "DataPortabilityAPI"
+    ]
+  },
+  {
+    "correct": "Chrome UX Report API",
+    "incorrect": [
+      "ChromeUXReportAPI"
+    ]
+  },
+  {
+    "correct": "Google Meet API",
+    "incorrect": [
+      "GoogleMeetAPI"
+    ]
+  },
+  {
+    "correct": "Contact Center AI Insights API",
+    "incorrect": [
+      "ContactCenterAIInsightsAPI"
+    ]
+  },
+  {
+    "correct": "Oracle Database@Google Cloud API",
+    "incorrect": [
+      "OracleDatabase@GoogleCloudAPI"
+    ]
+  },
+  {
+    "correct": "API Gateway API",
+    "incorrect": [
+      "APIGatewayAPI"
+    ]
+  },
+  {
+    "correct": "Street View Publish API",
+    "incorrect": [
+      "StreetViewPublishAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Video Intelligence API",
+    "incorrect": [
+      "CloudVideoIntelligenceAPI"
+    ]
+  },
+  {
+    "correct": "Firebase App Distribution API",
+    "incorrect": [
+      "FirebaseAppDistributionAPI"
+    ]
+  },
+  {
+    "correct": "Google Play Developer Reporting API",
+    "incorrect": [
+      "GooglePlayDeveloperReportingAPI"
+    ]
+  },
+  {
+    "correct": "IAM Service Account Credentials API",
+    "incorrect": [
+      "IAMServiceAccountCredentialsAPI"
+    ]
+  },
+  {
+    "correct": "Certificate Manager API",
+    "incorrect": [
+      "CertificateManagerAPI"
+    ]
+  },
+  {
+    "correct": "Datastream API",
+    "incorrect": [
+      "DatastreamAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Storage for Firebase API",
+    "incorrect": [
+      "CloudStorageforFirebaseAPI"
+    ]
+  },
+  {
+    "correct": "Air Quality API",
+    "incorrect": [
+      "AirQualityAPI"
+    ]
+  },
+  {
+    "correct": "Google Play Game Services",
+    "incorrect": [
+      "GooglePlayGameServices"
+    ]
+  },
+  {
+    "correct": "Google Play Game Management",
+    "incorrect": [
+      "GooglePlayGameManagement"
+    ]
+  },
+  {
+    "correct": "Firebase Cloud Messaging API",
+    "incorrect": [
+      "FirebaseCloudMessagingAPI"
+    ]
+  },
+  {
+    "correct": "App Engine Admin API",
+    "incorrect": [
+      "AppEngineAdminAPI"
+    ]
+  },
+  {
+    "correct": "Poly API",
+    "incorrect": [
+      "PolyAPI"
+    ]
+  },
+  {
+    "correct": "Google Search Console API",
+    "incorrect": [
+      "GoogleSearchConsoleAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Dataproc API",
+    "incorrect": [
+      "CloudDataprocAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Billing API",
+    "incorrect": [
+      "CloudBillingAPI"
+    ]
+  },
+  {
+    "correct": "Certificate Authority API",
+    "incorrect": [
+      "CertificateAuthorityAPI"
+    ]
+  },
+  {
+    "correct": "AdMob API",
+    "incorrect": [
+      "AdMobAPI"
+    ]
+  },
+  {
+    "correct": "Google Slides API",
+    "incorrect": [
+      "GoogleSlidesAPI"
+    ]
+  },
+  {
+    "correct": "VM Migration API",
+    "incorrect": [
+      "VMMigrationAPI"
+    ]
+  },
+  {
+    "correct": "Web Search Indexing API",
+    "incorrect": [
+      "WebSearchIndexingAPI"
+    ]
+  },
+  {
+    "correct": "Google Vault API",
+    "incorrect": [
+      "GoogleVaultAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Channel API",
+    "incorrect": [
+      "CloudChannelAPI"
+    ]
+  },
+  {
+    "correct": "Search Ads 360 API",
+    "incorrect": [
+      "SearchAds360API"
+    ]
+  },
+  {
+    "correct": "Cloud Monitoring API",
+    "incorrect": [
+      "CloudMonitoringAPI"
+    ]
+  },
+  {
+    "correct": "My Business Verifications API",
+    "incorrect": [
+      "MyBusinessVerificationsAPI"
+    ]
+  },
+  {
+    "correct": "Cloud Domains API",
+    "incorrect": [
+      "CloudDomainsAPI"
     ]
   }
 ]
